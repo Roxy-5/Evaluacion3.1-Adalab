@@ -1,0 +1,1201 @@
+ID,Edad,Genero,IMC,Nivel_Actividad,Consumo_Alcohol,Fumador,Presion_Sistolica,Presion_Diastolica,Colesterol,Glucosa,Horas_Sueno,Pasos_Diarios,Satisfaccion_Vida,Enfermedad_Cronica
+1.0,56.0,Femenino,37.1,Alto,Nunca,No,157.0,82.0,Muy Alto,110.3,,,8.0,
+2.0,69.0,Femenino,22.53,Moderado,Ocasional,No,167.0,69.0,Muy Alto,81.2,,,9.0,No
+3.0,46.0,Femenino,20.46,Bajo,Frecuente,,167.0,,Normal,81.8,9.8,6079.0,,No
+4.0,32.0,Otro,23.93,Moderado,Nunca,No,105.0,111.0,Alto,190.0,8.2,15341.0,8.0,Sí
+,60.0,Femenino,19.26,Bajo,Frecuente,No,160.0,84.0,,159.6,4.4,10981.0,6.0,No
+6.0,25.0,,29.69,Bajo,Frecuente,,108.0,113.0,Normal,,5.1,4524.0,6.0,Sí
+7.0,78.0,Masculino,38.61,Bajo,Frecuente,No,91.0,62.0,Muy Alto,116.4,8.6,9998.0,4.0,No
+,38.0,Femenino,18.87,,Frecuente,Sí,99.0,65.0,Alto,147.0,9.0,14697.0,5.0,Sí
+9.0,56.0,Femenino,20.69,Bajo,Nunca,Sí,139.0,117.0,Muy Alto,,7.7,14606.0,2.0,Sí
+10.0,75.0,Otro,27.95,Bajo,Nunca,Sí,170.0,65.0,Alto,,,14429.0,3.0,
+,36.0,Otro,,Alto,Nunca,Sí,101.0,112.0,Alto,100.8,4.2,17039.0,3.0,Sí
+12.0,40.0,,24.96,Alto,Frecuente,No,159.0,61.0,Alto,185.7,9.0,8140.0,5.0,No
+,28.0,Otro,29.16,Bajo,Frecuente,Sí,111.0,117.0,Alto,71.2,8.7,9785.0,,Sí
+14.0,28.0,,18.91,Alto,Frecuente,,121.0,117.0,Muy Alto,96.2,5.6,15901.0,6.0,Sí
+15.0,41.0,Otro,,Moderado,Nunca,No,173.0,77.0,Muy Alto,194.7,,,5.0,Sí
+16.0,70.0,Femenino,39.71,Moderado,Frecuente,No,90.0,82.0,Muy Alto,149.7,5.3,3212.0,6.0,No
+17.0,53.0,Otro,39.23,Alto,Ocasional,No,143.0,61.0,Muy Alto,104.0,,16213.0,8.0,
+18.0,57.0,Otro,18.11,Alto,Frecuente,No,147.0,71.0,Normal,78.7,5.2,9078.0,,Sí
+19.0,41.0,Masculino,38.94,Bajo,Ocasional,Sí,159.0,81.0,Alto,73.7,5.1,16936.0,4.0,No
+20.0,,Femenino,32.06,Alto,Frecuente,Sí,172.0,96.0,,101.8,6.0,17997.0,6.0,Sí
+21.0,39.0,Femenino,37.09,Bajo,Nunca,Sí,107.0,79.0,Alto,184.6,6.5,15274.0,5.0,Sí
+22.0,,Femenino,28.0,Moderado,Frecuente,Sí,95.0,98.0,Normal,124.1,7.1,1868.0,1.0,Sí
+23.0,19.0,Otro,29.34,Alto,Ocasional,No,134.0,83.0,Muy Alto,,,18195.0,9.0,Sí
+24.0,41.0,,28.75,Bajo,Ocasional,Sí,112.0,107.0,Alto,189.4,5.6,17042.0,3.0,No
+25.0,61.0,Otro,,Bajo,Frecuente,No,112.0,79.0,Muy Alto,123.0,4.2,16407.0,2.0,Sí
+26.0,,,21.07,Moderado,,,,60.0,Muy Alto,94.9,7.6,17254.0,9.0,Sí
+27.0,55.0,Otro,18.66,Alto,Ocasional,Sí,166.0,60.0,Normal,137.2,6.4,2744.0,7.0,No
+28.0,19.0,Masculino,24.77,Moderado,Nunca,Sí,96.0,76.0,Normal,188.1,5.8,3256.0,5.0,Sí
+29.0,77.0,Femenino,33.5,Bajo,,Sí,168.0,,,174.6,9.2,12859.0,6.0,
+30.0,,,22.44,Bajo,Frecuente,Sí,133.0,60.0,Alto,78.6,8.5,6423.0,4.0,No
+31.0,50.0,Masculino,32.82,Alto,Frecuente,No,116.0,,Alto,160.0,9.1,,1.0,No
+32.0,29.0,Masculino,39.34,Bajo,Ocasional,,115.0,111.0,Normal,144.3,7.0,7608.0,4.0,No
+33.0,75.0,Otro,20.07,Alto,,Sí,168.0,104.0,Normal,,4.8,10717.0,9.0,No
+34.0,39.0,Femenino,32.8,Moderado,Frecuente,No,125.0,89.0,Normal,85.9,8.2,18853.0,,
+,78.0,,27.76,Alto,,No,144.0,100.0,Normal,139.4,5.2,18897.0,3.0,No
+36.0,61.0,,37.1,Alto,Nunca,No,153.0,106.0,Normal,184.3,6.6,5876.0,5.0,Sí
+37.0,,Masculino,21.9,Bajo,Nunca,Sí,146.0,62.0,Normal,123.3,4.4,18835.0,7.0,No
+38.0,66.0,Masculino,33.24,Bajo,Ocasional,No,158.0,105.0,,132.7,9.0,4007.0,9.0,Sí
+39.0,44.0,Masculino,,Alto,Frecuente,Sí,150.0,,Alto,79.2,4.8,15325.0,6.0,No
+40.0,76.0,Masculino,,Bajo,Nunca,Sí,91.0,70.0,Normal,106.2,9.4,4124.0,3.0,No
+41.0,59.0,Femenino,33.03,Bajo,Nunca,,144.0,83.0,,112.2,9.2,2753.0,,Sí
+42.0,45.0,Otro,28.94,Bajo,Nunca,No,169.0,81.0,Alto,192.9,6.8,18996.0,4.0,No
+43.0,77.0,Masculino,31.59,Alto,Frecuente,Sí,176.0,,Alto,106.7,8.5,4275.0,3.0,No
+44.0,33.0,Masculino,37.12,,Frecuente,No,127.0,104.0,Muy Alto,129.9,7.7,9747.0,7.0,No
+45.0,32.0,Femenino,,Alto,Frecuente,No,169.0,85.0,Normal,157.3,8.8,,7.0,Sí
+46.0,79.0,Otro,18.67,Bajo,Ocasional,Sí,167.0,72.0,Normal,,6.6,19433.0,4.0,No
+47.0,79.0,Otro,38.48,Moderado,Ocasional,,118.0,60.0,Normal,133.2,8.7,1824.0,7.0,No
+48.0,64.0,Femenino,33.17,Bajo,Nunca,Sí,115.0,83.0,Normal,,6.8,14880.0,2.0,Sí
+49.0,79.0,Femenino,32.88,Bajo,Frecuente,Sí,124.0,69.0,Muy Alto,182.7,9.6,12041.0,1.0,Sí
+50.0,68.0,Otro,22.74,Alto,Nunca,No,168.0,,Alto,151.4,6.9,2081.0,2.0,No
+51.0,61.0,Masculino,32.5,Alto,Frecuente,No,156.0,83.0,Alto,157.0,6.8,12517.0,4.0,Sí
+52.0,72.0,Otro,26.67,Bajo,Frecuente,,176.0,87.0,Normal,86.4,8.7,17876.0,8.0,
+53.0,69.0,,32.33,Moderado,Frecuente,Sí,118.0,95.0,Normal,193.0,8.9,5764.0,,Sí
+54.0,74.0,,20.35,Bajo,Ocasional,Sí,123.0,75.0,Normal,87.2,7.3,9266.0,6.0,No
+55.0,20.0,Masculino,32.47,Bajo,Ocasional,No,130.0,99.0,Muy Alto,170.7,5.1,12183.0,6.0,No
+56.0,54.0,Femenino,39.99,,Frecuente,Sí,130.0,75.0,Muy Alto,104.4,,17712.0,9.0,Sí
+57.0,68.0,,19.06,Alto,Nunca,No,112.0,,Alto,191.4,9.8,13877.0,9.0,No
+58.0,24.0,Femenino,39.5,Bajo,Frecuente,Sí,160.0,76.0,Normal,163.6,8.5,,4.0,Sí
+59.0,38.0,Otro,26.95,Alto,Frecuente,Sí,92.0,110.0,Normal,168.0,8.9,9968.0,9.0,No
+60.0,26.0,Otro,37.16,Alto,Nunca,Sí,147.0,113.0,Normal,98.5,4.2,15639.0,6.0,Sí
+61.0,56.0,Masculino,35.21,Moderado,Frecuente,No,121.0,74.0,Normal,127.6,6.8,,2.0,No
+62.0,35.0,Femenino,30.47,Moderado,Nunca,No,,75.0,Muy Alto,150.3,,5316.0,6.0,Sí
+63.0,21.0,Masculino,34.25,,Ocasional,No,171.0,74.0,Alto,170.1,9.0,,2.0,No
+64.0,42.0,Masculino,37.33,Bajo,,Sí,,116.0,Alto,83.5,4.3,10695.0,8.0,No
+65.0,77.0,Masculino,26.89,Alto,,No,96.0,93.0,Muy Alto,195.1,9.1,16814.0,4.0,Sí
+66.0,31.0,Masculino,25.19,Bajo,Ocasional,No,90.0,70.0,Normal,185.7,7.3,9379.0,5.0,No
+67.0,67.0,Femenino,32.69,Bajo,Ocasional,Sí,150.0,60.0,Alto,,5.2,2214.0,8.0,No
+,,,35.77,Moderado,Nunca,Sí,103.0,74.0,Alto,177.0,,,8.0,No
+69.0,,Femenino,34.77,Bajo,Ocasional,No,,85.0,Muy Alto,137.4,,11713.0,6.0,No
+70.0,43.0,Femenino,35.55,Bajo,Frecuente,No,95.0,,,,7.2,16977.0,4.0,No
+71.0,70.0,Otro,27.58,Alto,Frecuente,No,99.0,63.0,Alto,110.9,4.3,,1.0,No
+72.0,19.0,Femenino,35.99,Moderado,Nunca,No,160.0,102.0,Normal,145.5,5.0,4136.0,7.0,No
+73.0,37.0,Otro,,Bajo,Ocasional,Sí,179.0,64.0,Alto,164.9,8.9,7618.0,8.0,No
+74.0,45.0,Femenino,29.98,Bajo,Frecuente,,119.0,94.0,Muy Alto,123.4,,6265.0,9.0,Sí
+75.0,64.0,Femenino,18.13,Moderado,Frecuente,Sí,110.0,72.0,Normal,151.8,5.4,8965.0,2.0,No
+76.0,77.0,Femenino,25.14,Alto,Ocasional,No,149.0,69.0,Muy Alto,160.9,,10597.0,1.0,
+77.0,24.0,Otro,26.06,Moderado,Ocasional,No,170.0,,Alto,162.4,7.1,9708.0,4.0,No
+78.0,61.0,Otro,26.72,Moderado,Frecuente,Sí,163.0,77.0,Muy Alto,76.8,8.6,7569.0,5.0,Sí
+79.0,78.0,,33.3,Bajo,Frecuente,Sí,152.0,93.0,Muy Alto,181.8,6.7,18875.0,1.0,No
+,25.0,Otro,26.55,Bajo,Nunca,No,131.0,98.0,Muy Alto,,8.7,6213.0,5.0,Sí
+81.0,64.0,Otro,27.87,Alto,Nunca,No,140.0,100.0,,,,12881.0,6.0,Sí
+82.0,52.0,Otro,23.23,Bajo,,Sí,153.0,101.0,Normal,101.4,4.7,5228.0,3.0,No
+83.0,31.0,Otro,26.21,Bajo,Nunca,Sí,165.0,109.0,Muy Alto,132.8,,5409.0,7.0,Sí
+84.0,,,23.0,Moderado,Frecuente,Sí,145.0,82.0,Normal,,6.6,1590.0,6.0,No
+85.0,53.0,Otro,,Bajo,Frecuente,No,,66.0,Alto,119.2,6.4,19590.0,,
+86.0,67.0,,31.28,Alto,Nunca,No,130.0,118.0,,,8.5,,3.0,Sí
+87.0,57.0,Femenino,32.7,Moderado,Nunca,No,121.0,98.0,Muy Alto,82.6,7.5,6981.0,5.0,No
+88.0,21.0,Otro,31.63,Alto,Ocasional,,104.0,62.0,Muy Alto,131.9,6.3,13221.0,,
+89.0,19.0,Otro,28.2,Moderado,Ocasional,No,,71.0,Muy Alto,198.9,5.0,18131.0,9.0,Sí
+90.0,,Femenino,,Bajo,,No,116.0,,Muy Alto,170.2,5.4,14785.0,9.0,No
+91.0,23.0,,36.99,Moderado,Frecuente,Sí,117.0,108.0,Muy Alto,97.4,7.5,7553.0,6.0,No
+92.0,71.0,Masculino,,,Nunca,Sí,170.0,85.0,Muy Alto,135.2,6.5,18881.0,6.0,No
+93.0,59.0,Femenino,28.54,Bajo,Frecuente,No,153.0,92.0,Alto,100.4,7.1,2379.0,4.0,No
+94.0,21.0,Femenino,18.56,Bajo,Nunca,Sí,148.0,96.0,Alto,123.2,5.0,8360.0,4.0,No
+95.0,71.0,,25.51,Alto,Frecuente,No,147.0,107.0,Alto,171.4,,,2.0,Sí
+96.0,46.0,Femenino,26.36,Alto,Ocasional,Sí,91.0,74.0,Normal,,9.1,,4.0,Sí
+97.0,35.0,Masculino,26.77,Bajo,Ocasional,No,125.0,61.0,Normal,99.7,5.5,10088.0,8.0,No
+98.0,43.0,Femenino,30.76,Bajo,Ocasional,Sí,160.0,100.0,Alto,189.9,,2546.0,2.0,No
+99.0,61.0,Otro,,,Frecuente,Sí,102.0,66.0,Normal,147.0,9.9,7208.0,9.0,No
+100.0,51.0,Otro,31.37,Moderado,,No,,91.0,Normal,119.4,6.0,,1.0,
+101.0,27.0,Femenino,,Moderado,Nunca,No,178.0,63.0,Muy Alto,135.3,7.6,9875.0,,Sí
+102.0,,Otro,35.89,Moderado,Ocasional,Sí,176.0,79.0,Muy Alto,148.7,4.5,2295.0,2.0,Sí
+103.0,53.0,Masculino,33.8,Bajo,Ocasional,Sí,149.0,109.0,,142.8,7.6,16861.0,6.0,No
+104.0,31.0,,39.02,Alto,Ocasional,No,111.0,112.0,Normal,133.2,4.5,14973.0,7.0,
+105.0,48.0,Femenino,,Bajo,,Sí,152.0,95.0,Alto,135.6,9.8,18769.0,3.0,Sí
+106.0,65.0,Femenino,22.31,Moderado,Nunca,No,179.0,91.0,Normal,92.9,8.3,15481.0,9.0,No
+107.0,32.0,Femenino,18.17,Moderado,Frecuente,No,164.0,87.0,,175.7,8.7,18326.0,5.0,No
+108.0,,Otro,32.24,Bajo,Frecuente,Sí,163.0,,Normal,140.4,8.2,4280.0,5.0,
+109.0,31.0,Masculino,,,Frecuente,No,114.0,60.0,Alto,87.0,7.5,,4.0,Sí
+110.0,40.0,Masculino,23.36,Moderado,Frecuente,Sí,137.0,119.0,Muy Alto,169.6,6.7,18417.0,9.0,No
+111.0,77.0,Otro,38.39,Moderado,Ocasional,Sí,132.0,115.0,Muy Alto,191.2,9.2,3786.0,8.0,Sí
+112.0,74.0,Masculino,19.33,Moderado,Ocasional,,127.0,94.0,Muy Alto,193.1,,,4.0,No
+113.0,79.0,Femenino,38.56,Bajo,Ocasional,Sí,130.0,107.0,,,7.0,2620.0,4.0,
+114.0,57.0,Femenino,25.74,Moderado,Frecuente,,134.0,89.0,Normal,87.6,9.6,4535.0,2.0,Sí
+115.0,38.0,Femenino,20.23,Moderado,Ocasional,No,177.0,113.0,Alto,137.4,7.5,,9.0,No
+116.0,,Masculino,28.69,Alto,Ocasional,No,129.0,95.0,Normal,,7.2,17554.0,3.0,No
+117.0,62.0,Femenino,23.65,,Nunca,Sí,106.0,116.0,Normal,191.4,6.7,,4.0,Sí
+118.0,35.0,Otro,24.27,Alto,Nunca,,177.0,114.0,,93.9,5.3,4897.0,7.0,No
+119.0,64.0,Otro,24.76,Alto,Ocasional,Sí,146.0,84.0,,102.9,4.0,16861.0,8.0,Sí
+120.0,70.0,,35.67,Moderado,Nunca,No,,75.0,Muy Alto,122.9,5.4,3837.0,,No
+121.0,41.0,Otro,29.86,Bajo,Nunca,No,,117.0,Normal,119.8,7.1,,4.0,Sí
+122.0,43.0,Otro,24.85,Moderado,Ocasional,No,,78.0,Normal,173.3,,16911.0,7.0,Sí
+123.0,42.0,Masculino,31.43,Bajo,Ocasional,Sí,98.0,60.0,Muy Alto,129.3,,7721.0,1.0,Sí
+124.0,77.0,Femenino,33.76,Alto,Ocasional,Sí,157.0,64.0,Normal,92.2,9.9,18063.0,6.0,No
+125.0,77.0,Femenino,24.0,Bajo,Ocasional,,170.0,110.0,Normal,104.7,6.1,6487.0,6.0,Sí
+126.0,77.0,Femenino,27.1,Moderado,Frecuente,No,106.0,81.0,Muy Alto,136.2,6.7,16121.0,6.0,Sí
+127.0,,Masculino,20.68,Moderado,Frecuente,Sí,139.0,83.0,,89.2,4.8,1236.0,2.0,Sí
+128.0,58.0,Otro,21.99,Moderado,Ocasional,,129.0,102.0,Alto,149.5,4.3,12629.0,8.0,Sí
+129.0,46.0,Femenino,32.98,Bajo,Nunca,Sí,147.0,104.0,Muy Alto,143.5,8.7,12549.0,5.0,No
+130.0,32.0,Femenino,21.99,Alto,Ocasional,No,164.0,,Alto,162.9,7.4,3423.0,,
+131.0,,Masculino,29.55,Alto,Ocasional,Sí,174.0,96.0,Normal,191.9,8.6,13906.0,2.0,Sí
+132.0,18.0,Femenino,33.6,Bajo,Nunca,No,110.0,112.0,Normal,188.6,4.9,15988.0,4.0,Sí
+133.0,42.0,Masculino,20.35,Moderado,Frecuente,Sí,,95.0,Muy Alto,193.0,7.4,2032.0,9.0,
+134.0,24.0,Otro,30.48,Alto,Ocasional,No,144.0,95.0,Normal,101.8,5.5,7339.0,9.0,
+135.0,26.0,Masculino,23.64,,Ocasional,No,,63.0,Muy Alto,87.1,5.4,3940.0,6.0,No
+136.0,41.0,Masculino,39.18,Bajo,Frecuente,No,113.0,95.0,,109.3,4.1,13262.0,9.0,Sí
+137.0,18.0,Masculino,28.64,,Frecuente,,,111.0,Muy Alto,186.4,4.8,12652.0,4.0,No
+138.0,61.0,Masculino,35.73,Alto,Nunca,Sí,106.0,112.0,Muy Alto,196.4,5.9,5942.0,1.0,Sí
+139.0,25.0,Otro,30.1,Alto,Frecuente,Sí,107.0,77.0,Muy Alto,181.7,4.7,7961.0,2.0,No
+,41.0,Otro,18.96,Moderado,Frecuente,No,131.0,109.0,Alto,84.3,9.9,8730.0,,No
+,28.0,Femenino,31.93,,Frecuente,No,173.0,75.0,Muy Alto,193.2,5.9,1633.0,8.0,
+142.0,68.0,Otro,38.93,Moderado,Nunca,Sí,134.0,100.0,,125.0,4.8,7822.0,9.0,Sí
+143.0,34.0,Otro,31.24,Bajo,Frecuente,No,171.0,77.0,Normal,71.2,5.2,7487.0,6.0,No
+,25.0,Femenino,36.02,Moderado,Frecuente,No,106.0,81.0,Muy Alto,127.5,7.5,,2.0,No
+145.0,52.0,Otro,37.45,Alto,Nunca,No,162.0,61.0,Normal,76.0,,6738.0,6.0,Sí
+146.0,52.0,,23.02,,Frecuente,Sí,103.0,80.0,Muy Alto,140.7,9.2,,9.0,Sí
+147.0,50.0,,22.66,Bajo,Frecuente,No,138.0,95.0,Alto,114.0,,9097.0,,Sí
+148.0,76.0,,31.44,Bajo,Nunca,Sí,118.0,103.0,,131.5,5.5,14136.0,9.0,Sí
+,22.0,Femenino,27.04,Alto,Ocasional,Sí,,98.0,,149.7,6.7,6476.0,2.0,No
+150.0,,Femenino,36.48,Moderado,Nunca,Sí,,,Normal,182.9,,9253.0,5.0,Sí
+151.0,56.0,Masculino,37.8,Alto,Frecuente,Sí,109.0,98.0,Muy Alto,156.0,7.8,19201.0,2.0,Sí
+,,Otro,25.78,Bajo,Frecuente,Sí,136.0,88.0,,126.4,6.5,5887.0,7.0,Sí
+153.0,58.0,Masculino,23.21,Moderado,Frecuente,No,98.0,113.0,Alto,176.5,5.6,19982.0,9.0,Sí
+,45.0,Femenino,,Alto,Nunca,Sí,,85.0,Normal,187.7,5.2,12643.0,7.0,Sí
+155.0,,Otro,24.05,Bajo,Frecuente,Sí,168.0,80.0,Alto,85.6,7.9,10492.0,5.0,Sí
+156.0,26.0,,36.1,Bajo,Frecuente,Sí,116.0,,Alto,139.2,6.5,3653.0,4.0,Sí
+157.0,25.0,Masculino,27.32,,Nunca,No,104.0,75.0,,107.0,5.1,2454.0,4.0,No
+158.0,29.0,Femenino,32.69,Alto,Ocasional,No,108.0,119.0,Muy Alto,76.1,8.1,18522.0,8.0,No
+159.0,51.0,Masculino,,Alto,Ocasional,No,179.0,90.0,Muy Alto,156.9,,6807.0,1.0,No
+160.0,50.0,Otro,31.72,Bajo,Frecuente,No,141.0,110.0,Alto,182.2,9.2,4192.0,5.0,No
+161.0,65.0,,27.94,Alto,,Sí,,68.0,Normal,91.2,4.7,13812.0,,No
+162.0,72.0,Masculino,30.91,Bajo,Frecuente,Sí,178.0,90.0,Normal,175.6,8.7,16775.0,9.0,Sí
+163.0,40.0,Femenino,,Alto,Nunca,No,115.0,73.0,Muy Alto,180.9,8.0,11402.0,7.0,Sí
+164.0,79.0,Femenino,34.21,Bajo,,No,115.0,108.0,Alto,188.9,4.7,14074.0,,Sí
+165.0,41.0,Otro,36.98,Bajo,Ocasional,No,135.0,96.0,Normal,104.5,8.2,16245.0,6.0,Sí
+166.0,54.0,Masculino,22.77,Moderado,Ocasional,No,138.0,61.0,Alto,,6.6,4759.0,9.0,
+167.0,52.0,Masculino,,Alto,Nunca,Sí,171.0,111.0,Normal,111.7,9.7,16683.0,,No
+168.0,61.0,,18.52,Alto,Frecuente,No,,107.0,,141.8,4.8,13460.0,7.0,Sí
+169.0,57.0,,32.12,Bajo,Ocasional,No,92.0,105.0,Alto,76.6,7.9,17447.0,7.0,Sí
+170.0,39.0,Otro,31.36,Bajo,Frecuente,No,155.0,73.0,,75.7,6.3,16460.0,9.0,No
+171.0,44.0,Femenino,,Bajo,Ocasional,,131.0,118.0,Normal,163.6,9.7,18729.0,8.0,No
+172.0,52.0,Femenino,,Moderado,,No,,92.0,Normal,127.8,6.0,18358.0,,No
+173.0,,Femenino,26.6,Moderado,,No,106.0,94.0,Normal,103.3,9.8,10814.0,4.0,Sí
+174.0,52.0,Masculino,31.08,Bajo,Ocasional,No,122.0,117.0,Alto,94.8,9.4,14890.0,7.0,Sí
+175.0,54.0,Masculino,28.93,Alto,Ocasional,Sí,165.0,98.0,Muy Alto,157.1,5.6,2740.0,8.0,No
+176.0,64.0,Femenino,39.73,Alto,Frecuente,Sí,138.0,117.0,,70.1,8.8,12218.0,7.0,No
+177.0,31.0,Masculino,,Moderado,Ocasional,Sí,145.0,106.0,Normal,174.8,10.0,7055.0,3.0,Sí
+178.0,20.0,,,Moderado,Ocasional,Sí,152.0,110.0,Muy Alto,80.3,,2954.0,,Sí
+179.0,18.0,Otro,26.9,Bajo,,Sí,92.0,79.0,Normal,94.9,6.6,,7.0,Sí
+180.0,22.0,Femenino,27.42,Alto,Frecuente,Sí,138.0,61.0,Muy Alto,120.2,7.1,19775.0,8.0,Sí
+181.0,,Otro,33.79,Bajo,Nunca,No,144.0,110.0,,133.0,,10232.0,,No
+182.0,72.0,Masculino,33.23,Moderado,Frecuente,No,115.0,,Normal,116.1,4.1,7439.0,6.0,No
+183.0,31.0,Femenino,39.81,,Nunca,,161.0,78.0,Muy Alto,111.7,5.3,1961.0,9.0,No
+184.0,56.0,Masculino,20.82,Alto,,No,141.0,118.0,Alto,195.3,,18601.0,9.0,Sí
+185.0,44.0,Otro,20.29,Moderado,Nunca,Sí,,96.0,Muy Alto,153.4,6.7,7007.0,7.0,Sí
+186.0,26.0,,33.94,Bajo,Frecuente,No,135.0,77.0,Alto,73.0,5.0,18776.0,8.0,
+187.0,32.0,Otro,,Bajo,Frecuente,No,135.0,75.0,Alto,125.9,9.2,3076.0,6.0,No
+,32.0,Masculino,24.03,Alto,Ocasional,,105.0,63.0,Muy Alto,183.8,8.2,,1.0,No
+189.0,,Masculino,19.75,,Nunca,No,113.0,71.0,Muy Alto,109.2,4.5,17292.0,1.0,No
+190.0,59.0,Masculino,,,Ocasional,No,150.0,88.0,Alto,,7.9,11315.0,6.0,Sí
+191.0,,Masculino,37.67,Moderado,Ocasional,,143.0,66.0,Alto,168.6,7.9,12785.0,2.0,Sí
+192.0,30.0,,22.22,Bajo,Frecuente,Sí,151.0,73.0,Alto,148.8,9.7,9142.0,8.0,No
+193.0,68.0,Otro,25.11,,,Sí,90.0,114.0,Normal,144.1,4.0,7260.0,1.0,Sí
+194.0,49.0,Femenino,22.99,Bajo,Nunca,No,138.0,71.0,Alto,77.0,,16534.0,2.0,No
+195.0,56.0,Femenino,25.81,Moderado,Nunca,Sí,,94.0,Normal,88.3,9.6,5841.0,8.0,No
+196.0,66.0,Masculino,19.53,Alto,Nunca,No,99.0,64.0,Alto,150.9,9.6,14384.0,6.0,No
+197.0,69.0,Otro,29.42,Bajo,Ocasional,Sí,169.0,76.0,Normal,97.0,,,2.0,No
+198.0,78.0,Otro,19.49,Alto,Ocasional,No,105.0,117.0,Alto,135.5,8.6,2922.0,2.0,
+199.0,49.0,Otro,35.61,,Frecuente,,147.0,101.0,Alto,140.8,4.5,12991.0,7.0,
+200.0,21.0,Femenino,23.14,,Ocasional,No,161.0,91.0,Alto,106.9,7.1,7101.0,5.0,Sí
+201.0,,Femenino,29.88,Bajo,Ocasional,Sí,,69.0,Muy Alto,193.3,5.4,3473.0,5.0,Sí
+202.0,54.0,Otro,37.36,Alto,Frecuente,No,95.0,102.0,Muy Alto,179.5,5.1,9108.0,8.0,Sí
+,40.0,Otro,32.32,Alto,Frecuente,Sí,105.0,76.0,Alto,163.9,8.9,16450.0,7.0,Sí
+204.0,56.0,Otro,29.73,Alto,Frecuente,,,64.0,Normal,80.1,4.8,11043.0,,No
+205.0,62.0,Femenino,25.14,Alto,Ocasional,No,169.0,104.0,,83.8,6.8,17210.0,4.0,Sí
+206.0,32.0,Otro,,Bajo,Ocasional,No,160.0,101.0,Alto,134.1,9.6,,4.0,Sí
+207.0,60.0,Otro,32.73,Bajo,Frecuente,Sí,167.0,68.0,Muy Alto,90.9,5.1,,2.0,Sí
+208.0,,Masculino,39.87,Alto,,Sí,132.0,,Normal,197.2,9.9,17890.0,3.0,No
+209.0,,,32.56,Moderado,Frecuente,Sí,115.0,92.0,Muy Alto,90.6,10.0,5889.0,1.0,
+,30.0,Femenino,,Moderado,Ocasional,No,,95.0,Normal,133.4,7.3,9212.0,,No
+,49.0,Otro,34.07,Bajo,Ocasional,Sí,167.0,95.0,,117.3,5.0,18783.0,7.0,Sí
+212.0,24.0,,28.23,Alto,Nunca,No,160.0,,Muy Alto,153.1,5.9,4201.0,5.0,
+213.0,76.0,Masculino,19.32,,Ocasional,Sí,122.0,,Normal,,6.5,8854.0,3.0,Sí
+214.0,68.0,Femenino,30.37,Bajo,Ocasional,Sí,115.0,116.0,Alto,125.9,5.9,7763.0,7.0,
+215.0,,Masculino,39.07,Moderado,,Sí,134.0,88.0,Alto,105.7,5.7,11653.0,2.0,No
+216.0,45.0,Masculino,21.86,Moderado,Frecuente,Sí,173.0,109.0,Alto,185.4,9.8,6190.0,3.0,Sí
+217.0,19.0,Masculino,33.18,Moderado,Ocasional,No,152.0,,Muy Alto,,4.9,14715.0,1.0,Sí
+218.0,59.0,Masculino,22.42,Bajo,Frecuente,Sí,,84.0,Muy Alto,188.8,8.4,6681.0,8.0,Sí
+219.0,62.0,,29.79,Moderado,Nunca,Sí,141.0,74.0,,178.3,4.0,4678.0,2.0,No
+220.0,79.0,Otro,20.13,Bajo,Nunca,No,157.0,65.0,Muy Alto,108.7,7.6,15102.0,,No
+221.0,74.0,Masculino,27.91,Bajo,Frecuente,No,115.0,115.0,Normal,172.6,9.5,17720.0,9.0,Sí
+,70.0,Femenino,34.64,Alto,Frecuente,Sí,164.0,,,74.1,5.7,2667.0,,No
+223.0,23.0,Femenino,25.65,Moderado,Frecuente,Sí,91.0,88.0,Alto,195.7,5.1,18293.0,2.0,No
+224.0,45.0,Femenino,32.63,Bajo,Ocasional,,,74.0,Muy Alto,138.5,7.9,9204.0,2.0,No
+225.0,45.0,Femenino,35.5,Moderado,Nunca,No,119.0,,Alto,109.4,8.3,6122.0,9.0,No
+226.0,61.0,Masculino,38.4,Moderado,Frecuente,,138.0,63.0,Normal,117.1,8.1,12217.0,8.0,Sí
+227.0,61.0,Otro,23.16,Alto,Ocasional,Sí,101.0,77.0,Muy Alto,78.6,5.9,16583.0,9.0,Sí
+228.0,37.0,Femenino,26.78,Moderado,Nunca,Sí,179.0,109.0,Muy Alto,198.6,5.5,1973.0,4.0,No
+229.0,47.0,Masculino,21.35,Alto,Ocasional,Sí,133.0,116.0,Alto,75.1,9.7,2408.0,4.0,
+230.0,79.0,Femenino,39.83,Bajo,,No,122.0,108.0,Alto,155.1,,,,
+231.0,28.0,,38.39,Moderado,Ocasional,No,102.0,,,127.6,6.7,19672.0,1.0,Sí
+232.0,75.0,Masculino,29.88,Bajo,Nunca,No,167.0,98.0,Muy Alto,193.4,9.1,9738.0,4.0,Sí
+233.0,72.0,Otro,36.52,Moderado,Nunca,Sí,177.0,75.0,Alto,102.0,6.7,15349.0,8.0,No
+234.0,45.0,Otro,,Bajo,Ocasional,No,115.0,70.0,Normal,139.2,6.5,2218.0,2.0,No
+235.0,42.0,,,Moderado,Frecuente,Sí,,73.0,Alto,132.7,4.9,18804.0,8.0,No
+,56.0,,,Moderado,Nunca,No,117.0,62.0,Alto,161.4,6.6,4377.0,1.0,No
+237.0,79.0,Masculino,34.62,Moderado,Frecuente,Sí,137.0,110.0,Muy Alto,78.8,7.2,11964.0,1.0,Sí
+238.0,50.0,Masculino,20.81,Moderado,,Sí,129.0,109.0,Alto,95.2,4.1,5098.0,4.0,Sí
+239.0,18.0,Masculino,36.17,Moderado,Frecuente,No,155.0,101.0,Muy Alto,97.9,6.7,8619.0,7.0,
+240.0,74.0,Otro,35.2,Moderado,Frecuente,Sí,,97.0,Alto,166.0,8.7,12939.0,9.0,Sí
+241.0,44.0,,33.59,Moderado,Frecuente,No,176.0,104.0,Normal,94.6,8.1,19226.0,5.0,Sí
+242.0,79.0,Femenino,18.8,Moderado,Frecuente,,168.0,101.0,Normal,144.6,7.8,17878.0,2.0,Sí
+243.0,74.0,Otro,24.67,,Frecuente,No,166.0,77.0,Muy Alto,98.0,9.5,7560.0,7.0,No
+244.0,69.0,Otro,23.79,Bajo,,No,112.0,117.0,Muy Alto,182.0,,6510.0,2.0,No
+245.0,30.0,Otro,,Alto,Nunca,Sí,,,Alto,192.5,7.3,4444.0,9.0,Sí
+246.0,58.0,Otro,19.93,Moderado,Nunca,No,137.0,117.0,Alto,137.4,8.7,8543.0,,Sí
+247.0,20.0,,38.61,Alto,Ocasional,Sí,91.0,107.0,Normal,115.8,7.2,13429.0,3.0,Sí
+248.0,56.0,Otro,,Moderado,Frecuente,No,173.0,84.0,Alto,100.4,5.9,8253.0,8.0,No
+249.0,23.0,,24.72,Moderado,,No,,,Normal,76.5,4.8,14775.0,4.0,No
+250.0,25.0,,26.73,Bajo,Ocasional,No,148.0,97.0,Muy Alto,104.9,,1045.0,3.0,No
+251.0,44.0,Otro,27.84,Bajo,Nunca,No,135.0,72.0,,155.1,6.8,16597.0,1.0,No
+,26.0,Femenino,31.21,Alto,Nunca,Sí,92.0,63.0,Muy Alto,139.4,,3057.0,5.0,Sí
+,79.0,Femenino,29.34,Bajo,Frecuente,No,144.0,114.0,Alto,192.7,7.5,1663.0,4.0,No
+254.0,54.0,Femenino,38.23,Bajo,Ocasional,No,101.0,73.0,Normal,121.5,8.0,5668.0,1.0,Sí
+,50.0,Femenino,28.93,Alto,Frecuente,Sí,129.0,92.0,Muy Alto,160.2,8.8,19413.0,8.0,No
+256.0,68.0,Otro,39.83,Bajo,Frecuente,,155.0,87.0,Muy Alto,133.6,,6717.0,8.0,No
+257.0,59.0,Otro,36.73,Moderado,Nunca,Sí,167.0,111.0,Alto,136.6,6.4,3696.0,,No
+258.0,,Femenino,22.59,Alto,Frecuente,Sí,105.0,96.0,Muy Alto,,7.1,14200.0,3.0,No
+259.0,41.0,,38.47,Alto,Ocasional,Sí,172.0,67.0,,129.1,8.8,17101.0,6.0,Sí
+260.0,32.0,Otro,,,Frecuente,Sí,123.0,103.0,Muy Alto,131.2,6.2,9831.0,7.0,Sí
+261.0,76.0,Femenino,35.98,Bajo,,No,133.0,93.0,,161.9,6.3,6004.0,9.0,Sí
+262.0,71.0,Masculino,26.37,Alto,Frecuente,Sí,,103.0,Alto,192.3,4.6,14156.0,5.0,Sí
+263.0,49.0,Femenino,37.32,,Nunca,No,166.0,64.0,Muy Alto,112.8,,,9.0,Sí
+264.0,49.0,Femenino,37.1,Moderado,Ocasional,,153.0,113.0,Alto,75.5,,11787.0,6.0,Sí
+265.0,41.0,Masculino,35.73,Moderado,Nunca,No,,64.0,Alto,,7.9,15662.0,4.0,Sí
+,58.0,Masculino,35.38,Bajo,Nunca,No,107.0,90.0,Muy Alto,140.8,6.5,6912.0,1.0,No
+267.0,69.0,Otro,24.7,Alto,,No,,104.0,,91.9,6.4,1394.0,1.0,Sí
+268.0,66.0,Otro,19.78,Bajo,Nunca,Sí,141.0,68.0,Alto,168.9,8.1,,5.0,No
+269.0,79.0,Masculino,26.87,Bajo,,Sí,140.0,101.0,Muy Alto,,4.4,4597.0,3.0,Sí
+270.0,,Masculino,21.82,Moderado,Ocasional,Sí,,91.0,Alto,193.0,7.6,11524.0,5.0,No
+271.0,75.0,Otro,33.29,Alto,Frecuente,,137.0,,Normal,95.6,,1329.0,,Sí
+272.0,69.0,Femenino,25.61,Alto,Nunca,No,,62.0,Normal,183.8,9.0,18156.0,1.0,No
+273.0,29.0,Masculino,39.46,Alto,Nunca,Sí,,89.0,,161.6,5.0,2645.0,8.0,Sí
+274.0,79.0,Otro,32.1,Moderado,Ocasional,No,173.0,109.0,Normal,129.0,9.4,19171.0,,
+275.0,56.0,Femenino,36.09,Moderado,Ocasional,No,116.0,71.0,Muy Alto,140.3,7.9,10815.0,,Sí
+276.0,19.0,Masculino,20.92,Moderado,Frecuente,Sí,142.0,,Muy Alto,180.4,9.3,18383.0,9.0,Sí
+277.0,20.0,Femenino,36.96,Moderado,Ocasional,Sí,137.0,62.0,Alto,132.4,6.9,2848.0,8.0,
+278.0,,Otro,38.3,Moderado,Frecuente,Sí,96.0,,Normal,118.5,7.3,2561.0,1.0,
+279.0,54.0,Masculino,28.72,Alto,Nunca,No,148.0,116.0,Muy Alto,134.1,9.5,1773.0,,Sí
+280.0,66.0,Femenino,31.34,Bajo,Nunca,Sí,158.0,89.0,Muy Alto,145.3,9.4,8311.0,,No
+281.0,,Masculino,34.83,Alto,,No,100.0,68.0,Muy Alto,,6.7,16203.0,1.0,Sí
+282.0,34.0,Femenino,21.85,Bajo,Ocasional,,104.0,85.0,Alto,187.1,5.6,19187.0,1.0,No
+283.0,76.0,Otro,,,Frecuente,No,,61.0,Alto,157.6,6.4,10290.0,,No
+284.0,66.0,Otro,26.77,Bajo,Ocasional,Sí,92.0,62.0,Muy Alto,152.3,6.3,3050.0,9.0,Sí
+285.0,,Masculino,21.22,Alto,Nunca,Sí,158.0,105.0,Muy Alto,82.9,5.7,18131.0,6.0,
+286.0,19.0,Femenino,26.09,Alto,Ocasional,No,112.0,63.0,Normal,,5.6,4973.0,2.0,No
+287.0,45.0,Masculino,19.5,Bajo,Frecuente,Sí,142.0,84.0,,85.7,,2615.0,,
+288.0,71.0,Masculino,,Moderado,Frecuente,Sí,126.0,110.0,,80.2,4.4,15550.0,6.0,No
+289.0,40.0,Femenino,20.97,Moderado,Nunca,Sí,98.0,72.0,Alto,138.6,8.1,11494.0,5.0,Sí
+290.0,54.0,Femenino,,Alto,Ocasional,Sí,104.0,98.0,,122.4,,6506.0,5.0,
+291.0,49.0,Femenino,30.09,Bajo,Ocasional,Sí,92.0,103.0,Alto,146.5,6.1,14054.0,,No
+292.0,50.0,,39.25,Moderado,Ocasional,Sí,159.0,94.0,,81.6,4.4,14861.0,6.0,Sí
+293.0,18.0,Masculino,,Moderado,Nunca,Sí,106.0,114.0,Normal,126.0,5.6,,4.0,Sí
+294.0,36.0,Masculino,24.86,,Ocasional,No,115.0,,Normal,92.7,8.6,14515.0,2.0,Sí
+,79.0,Otro,29.14,Moderado,Frecuente,,110.0,68.0,Normal,198.3,9.3,6854.0,3.0,No
+296.0,19.0,Femenino,27.67,,Ocasional,Sí,161.0,,Normal,142.9,5.3,17600.0,9.0,Sí
+297.0,70.0,Otro,20.32,Alto,Nunca,Sí,110.0,113.0,,159.4,,18743.0,9.0,No
+,61.0,,32.1,Alto,Ocasional,Sí,100.0,100.0,,112.3,6.8,4774.0,6.0,Sí
+299.0,43.0,Otro,,Bajo,Ocasional,No,127.0,103.0,Muy Alto,82.3,9.2,5927.0,9.0,No
+300.0,49.0,,31.63,Alto,,No,161.0,90.0,Muy Alto,196.9,8.6,5429.0,4.0,Sí
+,23.0,Otro,32.3,Moderado,Ocasional,Sí,177.0,103.0,Alto,,7.1,5606.0,5.0,Sí
+302.0,49.0,Masculino,21.34,Moderado,Frecuente,No,124.0,106.0,Normal,125.1,8.0,5478.0,6.0,
+303.0,72.0,Masculino,19.35,Bajo,,Sí,103.0,61.0,Normal,,9.1,17076.0,,Sí
+304.0,21.0,Masculino,35.18,Moderado,Nunca,Sí,103.0,91.0,Alto,73.2,,19280.0,5.0,No
+305.0,72.0,Femenino,28.12,Bajo,Frecuente,Sí,99.0,77.0,Muy Alto,175.3,6.4,8366.0,8.0,
+306.0,28.0,Masculino,19.28,Bajo,Frecuente,Sí,101.0,72.0,Normal,139.8,9.4,5427.0,1.0,
+307.0,73.0,Masculino,39.89,Moderado,Nunca,No,127.0,105.0,Muy Alto,106.2,8.4,14476.0,5.0,Sí
+308.0,76.0,Femenino,19.27,Bajo,Frecuente,No,123.0,64.0,Alto,78.0,7.3,6361.0,1.0,No
+309.0,34.0,Masculino,33.29,,,Sí,130.0,117.0,Muy Alto,91.1,7.2,1641.0,6.0,Sí
+310.0,55.0,,39.64,Alto,Ocasional,,99.0,101.0,Normal,,6.1,11085.0,,No
+,41.0,Otro,23.26,,Nunca,No,106.0,103.0,Muy Alto,159.2,7.1,5050.0,5.0,No
+,22.0,Masculino,,Bajo,Frecuente,Sí,106.0,69.0,Muy Alto,102.5,7.9,5553.0,,
+313.0,,Femenino,20.67,,Nunca,,156.0,,Normal,78.5,6.5,19688.0,,No
+314.0,51.0,Otro,24.67,Moderado,Frecuente,Sí,151.0,102.0,Normal,,,4343.0,5.0,No
+315.0,23.0,,20.22,Alto,Ocasional,Sí,90.0,84.0,Muy Alto,144.4,,3056.0,6.0,Sí
+316.0,39.0,Femenino,33.23,Alto,Nunca,Sí,101.0,,Muy Alto,122.6,4.9,10416.0,7.0,Sí
+317.0,28.0,Otro,19.37,Moderado,Ocasional,Sí,93.0,96.0,Alto,117.3,6.7,8226.0,,Sí
+,65.0,Femenino,29.21,Bajo,Frecuente,No,131.0,89.0,Normal,98.2,6.4,1886.0,2.0,Sí
+319.0,,Otro,,Alto,Frecuente,Sí,102.0,66.0,Muy Alto,,8.1,9584.0,,Sí
+320.0,50.0,Femenino,35.91,Bajo,Ocasional,No,174.0,65.0,Normal,196.2,5.5,19830.0,6.0,Sí
+321.0,26.0,Otro,,Bajo,Nunca,Sí,175.0,113.0,Alto,,7.8,12530.0,3.0,No
+322.0,,Masculino,24.74,Alto,Nunca,Sí,93.0,114.0,Muy Alto,147.6,9.3,4591.0,2.0,No
+323.0,,Otro,31.73,Bajo,Frecuente,No,171.0,62.0,Muy Alto,125.1,6.5,19565.0,4.0,No
+324.0,23.0,,29.59,Bajo,Ocasional,Sí,158.0,72.0,Muy Alto,128.1,9.5,17738.0,5.0,Sí
+325.0,33.0,Otro,27.37,Moderado,Ocasional,No,,62.0,Normal,103.0,10.0,3631.0,9.0,Sí
+326.0,46.0,Otro,20.88,Bajo,Nunca,No,91.0,85.0,Alto,177.3,4.6,18905.0,3.0,No
+,20.0,Femenino,37.51,Moderado,Nunca,Sí,101.0,116.0,Normal,133.1,5.4,12370.0,3.0,
+328.0,37.0,Masculino,27.9,Alto,Nunca,Sí,,83.0,Muy Alto,140.6,9.7,19721.0,6.0,Sí
+329.0,77.0,Otro,22.28,Alto,Ocasional,Sí,,112.0,Alto,109.6,9.7,,5.0,No
+330.0,76.0,Femenino,26.09,Moderado,Nunca,Sí,95.0,65.0,Muy Alto,93.6,4.6,3679.0,6.0,Sí
+331.0,53.0,Masculino,,Alto,Nunca,Sí,97.0,102.0,Muy Alto,81.2,4.1,5422.0,7.0,Sí
+332.0,36.0,,36.21,,Frecuente,Sí,140.0,119.0,,162.8,5.0,8463.0,3.0,No
+333.0,43.0,Masculino,34.14,Bajo,Nunca,No,100.0,117.0,Muy Alto,95.5,10.0,10613.0,5.0,Sí
+334.0,20.0,Masculino,34.92,Bajo,Nunca,No,152.0,108.0,Alto,159.7,5.1,18510.0,8.0,Sí
+335.0,36.0,Otro,18.24,Alto,Ocasional,Sí,146.0,101.0,,120.7,,2780.0,4.0,Sí
+336.0,37.0,Otro,27.16,Bajo,Ocasional,No,101.0,71.0,Muy Alto,,9.1,,2.0,Sí
+337.0,49.0,Femenino,28.59,Alto,Frecuente,No,162.0,108.0,Normal,131.0,4.1,,4.0,No
+338.0,24.0,Femenino,,Bajo,Nunca,Sí,,95.0,Alto,117.8,7.6,1825.0,2.0,
+339.0,69.0,Femenino,23.72,Moderado,Frecuente,Sí,97.0,61.0,Normal,83.1,5.7,12155.0,3.0,Sí
+340.0,,Masculino,34.73,Alto,Ocasional,No,100.0,70.0,Muy Alto,110.3,9.2,3395.0,4.0,No
+341.0,50.0,Masculino,,Alto,Frecuente,Sí,142.0,98.0,Normal,156.3,5.7,5145.0,4.0,Sí
+342.0,57.0,Otro,29.78,Bajo,Ocasional,,99.0,93.0,Normal,156.6,8.1,16779.0,9.0,Sí
+343.0,56.0,Masculino,22.73,Alto,,,174.0,85.0,Normal,107.2,8.0,6492.0,6.0,
+344.0,35.0,Masculino,,Alto,Frecuente,No,173.0,77.0,Normal,129.8,5.3,8111.0,9.0,No
+345.0,57.0,Masculino,23.31,Moderado,Nunca,No,97.0,80.0,Muy Alto,95.1,4.2,14087.0,4.0,Sí
+346.0,18.0,Femenino,39.47,Moderado,,No,125.0,95.0,Muy Alto,97.3,,10984.0,9.0,Sí
+347.0,,Femenino,35.63,,Nunca,No,165.0,99.0,Alto,73.0,5.7,7792.0,,No
+348.0,45.0,Otro,39.11,,Nunca,Sí,103.0,111.0,Normal,186.6,,8711.0,6.0,Sí
+349.0,74.0,Masculino,28.73,Bajo,Nunca,Sí,143.0,105.0,Normal,97.4,8.8,,,Sí
+350.0,42.0,Masculino,20.41,Bajo,Nunca,No,174.0,103.0,Alto,,6.7,4667.0,3.0,Sí
+,67.0,Otro,,Bajo,Frecuente,No,,81.0,Normal,106.3,7.6,7459.0,5.0,No
+,40.0,,28.0,Alto,Ocasional,Sí,110.0,112.0,Alto,,,5096.0,3.0,Sí
+353.0,48.0,Masculino,36.58,Moderado,Ocasional,Sí,139.0,118.0,Muy Alto,153.1,9.0,2019.0,5.0,No
+,47.0,Femenino,20.16,Bajo,Ocasional,,128.0,,Alto,79.8,6.6,10476.0,5.0,No
+355.0,59.0,Otro,28.74,Moderado,Frecuente,No,109.0,109.0,Normal,87.4,5.7,9254.0,2.0,No
+356.0,52.0,Otro,21.3,Bajo,Nunca,No,177.0,102.0,Alto,,5.6,12584.0,9.0,No
+357.0,24.0,Otro,25.14,Moderado,Ocasional,No,176.0,,Muy Alto,114.2,7.2,6965.0,7.0,Sí
+358.0,77.0,Otro,34.22,Moderado,Frecuente,No,,89.0,Normal,162.0,6.7,12464.0,6.0,No
+359.0,,Femenino,28.47,Bajo,Nunca,Sí,98.0,67.0,Muy Alto,142.5,6.6,19653.0,,Sí
+360.0,43.0,Femenino,26.27,Alto,Ocasional,No,,93.0,,103.3,,,4.0,No
+361.0,65.0,Masculino,26.68,Moderado,Nunca,Sí,115.0,116.0,Alto,154.6,8.3,5721.0,8.0,No
+362.0,74.0,Masculino,28.11,Alto,Ocasional,Sí,127.0,106.0,Muy Alto,85.1,5.3,9408.0,2.0,Sí
+363.0,69.0,Masculino,35.27,,Ocasional,Sí,127.0,,Normal,139.7,5.2,1195.0,,No
+,77.0,Masculino,37.63,,Ocasional,No,150.0,110.0,Muy Alto,126.8,6.5,4273.0,1.0,No
+365.0,66.0,,39.02,Bajo,Nunca,Sí,133.0,79.0,Muy Alto,104.8,5.4,16330.0,1.0,Sí
+366.0,,Otro,35.31,Bajo,Frecuente,Sí,175.0,99.0,Alto,148.5,7.5,11886.0,3.0,
+367.0,18.0,Femenino,24.94,Moderado,,Sí,133.0,84.0,Muy Alto,183.3,6.2,4212.0,5.0,No
+368.0,65.0,Masculino,33.14,Bajo,Ocasional,Sí,163.0,78.0,Alto,199.9,6.7,3755.0,,No
+369.0,79.0,Femenino,27.63,Bajo,,No,151.0,64.0,Alto,149.0,7.2,18905.0,4.0,Sí
+,29.0,Otro,23.6,Moderado,Frecuente,,95.0,70.0,Normal,122.6,5.2,2080.0,7.0,No
+371.0,22.0,Otro,36.5,Moderado,Nunca,Sí,106.0,74.0,Normal,99.3,4.9,16501.0,7.0,Sí
+372.0,54.0,Femenino,18.85,,Frecuente,Sí,140.0,67.0,Normal,,9.3,18105.0,,Sí
+373.0,49.0,Femenino,37.84,,,No,127.0,78.0,Normal,132.3,6.6,15047.0,2.0,Sí
+374.0,,Femenino,28.15,Bajo,Nunca,No,113.0,82.0,Alto,117.7,6.5,18946.0,2.0,No
+375.0,72.0,Masculino,32.02,Bajo,Ocasional,,140.0,86.0,Muy Alto,188.8,4.2,1639.0,2.0,No
+376.0,26.0,Femenino,,Alto,Frecuente,Sí,99.0,99.0,Normal,117.9,,13502.0,9.0,No
+377.0,58.0,Femenino,37.69,Alto,Nunca,No,161.0,91.0,Normal,118.5,7.3,6190.0,5.0,No
+378.0,52.0,,32.01,Bajo,Frecuente,,110.0,85.0,Normal,119.9,,4736.0,8.0,Sí
+379.0,,Otro,31.51,Alto,,Sí,,86.0,Muy Alto,178.8,8.2,17473.0,5.0,Sí
+380.0,65.0,Otro,19.47,Moderado,Nunca,No,,78.0,Normal,154.6,5.1,2251.0,5.0,No
+381.0,33.0,Masculino,29.4,Alto,,Sí,146.0,109.0,Muy Alto,,5.5,10294.0,,
+382.0,20.0,Masculino,21.3,,Nunca,No,128.0,101.0,Alto,113.4,8.9,,6.0,Sí
+383.0,,Otro,34.22,Bajo,Ocasional,Sí,177.0,88.0,Alto,176.3,9.7,5052.0,4.0,No
+384.0,41.0,Otro,,Alto,Frecuente,No,,98.0,Alto,75.0,4.8,1271.0,3.0,No
+385.0,71.0,Otro,32.97,Alto,Nunca,Sí,148.0,119.0,,183.2,7.0,19414.0,6.0,No
+386.0,73.0,,18.92,Alto,Frecuente,Sí,107.0,100.0,Normal,136.7,5.3,,2.0,No
+387.0,50.0,,19.87,,Frecuente,No,145.0,92.0,Normal,121.8,4.4,16889.0,8.0,No
+388.0,41.0,Otro,33.76,Moderado,Ocasional,No,146.0,78.0,Normal,134.6,6.0,10657.0,1.0,No
+389.0,69.0,,,Bajo,,No,165.0,96.0,Normal,156.8,4.9,10387.0,9.0,Sí
+390.0,,Femenino,19.57,Bajo,Frecuente,No,137.0,,Normal,71.7,,17376.0,8.0,Sí
+,66.0,Masculino,18.27,Moderado,Nunca,Sí,131.0,92.0,,183.3,7.2,,1.0,Sí
+392.0,25.0,Otro,39.04,Alto,Nunca,No,116.0,106.0,Alto,128.1,4.9,13015.0,9.0,Sí
+393.0,53.0,Otro,34.23,Moderado,Ocasional,No,163.0,75.0,Normal,114.6,,8041.0,2.0,No
+,55.0,Femenino,25.77,Alto,Nunca,Sí,141.0,82.0,Alto,88.0,8.8,18510.0,3.0,No
+395.0,,,24.52,Moderado,Nunca,No,131.0,66.0,Muy Alto,127.1,5.1,9708.0,2.0,Sí
+396.0,37.0,Masculino,25.69,Bajo,Frecuente,No,121.0,85.0,,134.5,7.6,11857.0,8.0,Sí
+397.0,79.0,Masculino,35.04,Bajo,Ocasional,Sí,115.0,,Normal,122.5,6.0,10493.0,2.0,Sí
+398.0,52.0,Masculino,32.55,Bajo,,,114.0,71.0,Muy Alto,158.2,7.5,9052.0,2.0,Sí
+399.0,65.0,Otro,22.07,,Frecuente,No,164.0,67.0,Alto,124.7,5.9,17995.0,1.0,Sí
+400.0,79.0,Otro,21.83,,Ocasional,No,112.0,64.0,Normal,,4.5,18133.0,7.0,
+401.0,42.0,Otro,20.16,Moderado,Ocasional,No,146.0,101.0,Normal,147.9,5.3,14580.0,2.0,No
+402.0,52.0,,32.53,,,No,141.0,87.0,Alto,175.0,5.1,19240.0,5.0,Sí
+403.0,42.0,Otro,34.82,Bajo,Frecuente,No,176.0,112.0,Normal,84.2,6.6,,5.0,Sí
+404.0,46.0,Masculino,23.83,Alto,,Sí,120.0,64.0,Normal,,7.9,11216.0,3.0,No
+405.0,35.0,Femenino,18.46,Moderado,Frecuente,,153.0,,,113.8,5.6,7229.0,3.0,No
+406.0,63.0,Masculino,19.81,Alto,Frecuente,Sí,,85.0,Normal,144.0,4.1,14343.0,3.0,No
+,35.0,Otro,39.29,Alto,Nunca,Sí,,,Normal,181.9,7.1,3098.0,6.0,Sí
+408.0,19.0,Masculino,24.5,Bajo,,,174.0,81.0,Alto,,7.6,16438.0,,No
+409.0,71.0,Otro,,Bajo,,Sí,91.0,,Muy Alto,79.4,9.8,8865.0,3.0,Sí
+410.0,52.0,Otro,,Alto,Nunca,No,107.0,72.0,Alto,180.5,7.5,17557.0,,Sí
+,33.0,Masculino,26.4,Alto,Nunca,No,136.0,87.0,Normal,97.7,6.8,13211.0,3.0,
+,78.0,Otro,22.53,Alto,Nunca,No,122.0,92.0,Alto,156.9,,1500.0,4.0,No
+413.0,58.0,Femenino,20.67,Alto,Frecuente,Sí,173.0,102.0,Normal,140.6,9.6,4646.0,6.0,No
+414.0,53.0,Otro,31.53,,Ocasional,No,124.0,82.0,Normal,,,19747.0,4.0,Sí
+415.0,50.0,Femenino,35.04,Moderado,Ocasional,,140.0,92.0,Alto,86.3,5.9,11048.0,8.0,No
+416.0,21.0,Femenino,32.17,Bajo,Ocasional,No,,102.0,Normal,86.9,5.4,12344.0,3.0,No
+417.0,50.0,,29.67,Moderado,Ocasional,Sí,177.0,77.0,Muy Alto,,5.6,19280.0,3.0,
+,31.0,Masculino,18.92,Alto,Nunca,,161.0,109.0,Normal,193.0,7.0,10910.0,3.0,No
+419.0,,Femenino,39.31,,Nunca,No,119.0,112.0,Alto,123.9,8.5,2778.0,8.0,No
+420.0,,Masculino,35.57,Bajo,Frecuente,Sí,133.0,89.0,Muy Alto,112.5,7.0,13984.0,4.0,Sí
+421.0,37.0,Femenino,24.44,Bajo,Ocasional,Sí,,85.0,Muy Alto,148.9,4.4,6190.0,1.0,Sí
+422.0,73.0,,39.56,,Nunca,No,99.0,,Normal,,8.3,16304.0,2.0,Sí
+423.0,25.0,Otro,31.24,,Nunca,Sí,176.0,72.0,Alto,178.8,8.8,7997.0,2.0,Sí
+424.0,24.0,Femenino,30.81,Alto,Frecuente,Sí,,98.0,Normal,,5.7,13020.0,3.0,
+425.0,20.0,Otro,34.46,,Frecuente,No,138.0,92.0,Normal,72.9,8.0,5747.0,6.0,No
+426.0,34.0,Femenino,35.86,Bajo,Frecuente,,100.0,85.0,Alto,84.7,6.6,10286.0,8.0,No
+427.0,50.0,Otro,32.44,Alto,Nunca,,155.0,107.0,,149.2,9.3,1045.0,,Sí
+428.0,65.0,Masculino,20.82,Moderado,Nunca,Sí,147.0,60.0,Normal,176.7,9.1,8758.0,9.0,No
+429.0,29.0,,25.44,Bajo,Frecuente,Sí,179.0,,Muy Alto,107.1,7.2,1455.0,1.0,No
+430.0,,Masculino,38.42,Moderado,Ocasional,Sí,125.0,97.0,Normal,101.1,8.1,10854.0,2.0,Sí
+431.0,68.0,Otro,,Bajo,Frecuente,Sí,122.0,61.0,,172.3,9.3,18349.0,3.0,Sí
+432.0,39.0,,26.19,Bajo,Frecuente,Sí,136.0,108.0,Normal,77.3,7.0,2528.0,7.0,Sí
+433.0,72.0,Otro,27.51,Bajo,Frecuente,Sí,102.0,65.0,Alto,118.0,5.9,3976.0,9.0,No
+434.0,39.0,Masculino,27.67,Bajo,Frecuente,No,129.0,105.0,Muy Alto,,8.5,14288.0,3.0,
+435.0,63.0,Femenino,,Moderado,Nunca,No,178.0,109.0,Alto,142.8,5.3,7387.0,8.0,
+436.0,,Femenino,38.75,Moderado,Ocasional,No,157.0,97.0,Alto,164.7,6.3,3521.0,9.0,No
+437.0,55.0,Masculino,23.3,Bajo,Frecuente,No,131.0,,Alto,116.1,9.2,7525.0,7.0,No
+438.0,55.0,Otro,20.67,Bajo,Ocasional,Sí,108.0,83.0,Alto,149.6,8.3,2126.0,4.0,No
+439.0,62.0,Masculino,22.34,,,No,171.0,77.0,Alto,146.1,6.4,14348.0,4.0,Sí
+440.0,68.0,Otro,37.51,Alto,Ocasional,No,108.0,86.0,Normal,141.2,5.3,8716.0,4.0,No
+441.0,71.0,Femenino,32.21,Alto,Frecuente,Sí,147.0,100.0,Muy Alto,153.3,6.1,17102.0,6.0,Sí
+442.0,25.0,Otro,24.29,Moderado,,Sí,112.0,67.0,Normal,103.7,5.7,4404.0,4.0,No
+443.0,44.0,Femenino,35.95,Bajo,Frecuente,Sí,143.0,,Normal,,5.1,5492.0,5.0,Sí
+444.0,44.0,Otro,36.95,Bajo,Ocasional,,169.0,69.0,Normal,85.5,8.5,3343.0,9.0,
+445.0,51.0,Otro,36.62,Alto,Ocasional,Sí,154.0,76.0,Alto,99.2,5.5,1106.0,7.0,Sí
+,38.0,Otro,38.22,Alto,,No,101.0,114.0,Normal,135.0,6.7,16195.0,8.0,No
+447.0,47.0,Masculino,23.55,Moderado,,Sí,113.0,88.0,Muy Alto,179.3,6.3,14241.0,5.0,No
+448.0,50.0,Masculino,34.61,,Ocasional,No,123.0,117.0,Normal,161.2,9.9,13575.0,5.0,No
+449.0,45.0,Femenino,28.13,Moderado,,No,142.0,65.0,,,6.3,5801.0,7.0,Sí
+450.0,64.0,Femenino,36.52,Alto,Ocasional,Sí,97.0,73.0,Muy Alto,115.6,4.5,6580.0,8.0,No
+451.0,50.0,Masculino,34.03,Alto,Nunca,No,107.0,81.0,Muy Alto,122.6,4.5,17598.0,9.0,
+452.0,,Femenino,35.08,Alto,Nunca,,146.0,,Muy Alto,121.2,7.5,6400.0,2.0,No
+453.0,77.0,Masculino,32.44,Bajo,Frecuente,Sí,94.0,,Muy Alto,94.9,7.6,7875.0,3.0,Sí
+454.0,78.0,Otro,,Bajo,Ocasional,No,115.0,85.0,Normal,78.0,6.5,9656.0,2.0,No
+455.0,65.0,Femenino,29.99,Bajo,Frecuente,,119.0,98.0,Alto,146.8,6.6,7247.0,7.0,No
+456.0,36.0,Femenino,39.66,Alto,Ocasional,No,143.0,71.0,Muy Alto,198.6,4.3,7177.0,2.0,Sí
+457.0,21.0,Masculino,38.62,Moderado,Frecuente,Sí,102.0,94.0,Muy Alto,91.7,7.1,8269.0,2.0,Sí
+458.0,52.0,Femenino,18.95,Moderado,Ocasional,Sí,172.0,73.0,,76.1,7.0,15974.0,2.0,Sí
+459.0,66.0,Femenino,,Moderado,Frecuente,,118.0,81.0,Normal,171.3,4.9,15037.0,4.0,Sí
+460.0,34.0,Otro,20.9,Moderado,Nunca,No,92.0,110.0,Muy Alto,102.8,4.6,19756.0,1.0,Sí
+461.0,,Femenino,33.97,Bajo,Ocasional,Sí,,82.0,,177.9,4.7,17167.0,2.0,Sí
+,45.0,Otro,35.99,Bajo,Ocasional,No,,107.0,Normal,161.5,4.6,11380.0,3.0,No
+463.0,47.0,Masculino,22.7,,Nunca,Sí,165.0,66.0,Normal,192.9,7.7,7617.0,7.0,No
+,46.0,Femenino,29.13,Alto,Frecuente,No,91.0,99.0,Normal,123.2,5.2,1303.0,1.0,Sí
+465.0,63.0,Otro,36.5,Moderado,,Sí,164.0,109.0,Muy Alto,156.1,5.5,,6.0,No
+466.0,70.0,Masculino,34.12,Bajo,Ocasional,Sí,117.0,84.0,Muy Alto,130.4,5.0,17717.0,3.0,Sí
+467.0,,Femenino,29.93,Moderado,Frecuente,No,171.0,72.0,Normal,152.0,9.7,12025.0,3.0,No
+468.0,52.0,Masculino,30.99,Alto,Nunca,Sí,166.0,80.0,Normal,128.4,9.1,,,Sí
+,77.0,Femenino,29.18,Alto,Frecuente,No,175.0,,Alto,94.5,5.4,5561.0,4.0,Sí
+470.0,,Masculino,,,Frecuente,Sí,165.0,69.0,Alto,136.0,6.0,1079.0,7.0,No
+471.0,54.0,Masculino,30.43,Alto,Frecuente,Sí,91.0,112.0,Alto,138.7,5.3,4763.0,3.0,No
+472.0,41.0,Otro,33.16,,Ocasional,No,96.0,,Muy Alto,175.4,7.0,11169.0,8.0,No
+473.0,46.0,Masculino,37.21,Bajo,Nunca,No,115.0,118.0,Alto,,4.1,18116.0,8.0,No
+474.0,66.0,Femenino,32.0,Moderado,Nunca,No,179.0,68.0,,156.3,8.0,4976.0,7.0,No
+475.0,63.0,Femenino,34.74,Bajo,Frecuente,Sí,177.0,74.0,Muy Alto,84.7,7.1,18768.0,2.0,No
+,70.0,Otro,,Bajo,Ocasional,,165.0,111.0,Muy Alto,163.7,9.4,,5.0,No
+477.0,48.0,Femenino,28.15,Alto,Frecuente,Sí,105.0,61.0,Muy Alto,135.0,5.0,7652.0,6.0,No
+478.0,52.0,Femenino,18.21,Alto,Ocasional,No,112.0,84.0,Alto,186.2,8.8,6283.0,4.0,Sí
+479.0,77.0,Femenino,23.43,Alto,Ocasional,No,129.0,72.0,Normal,,8.8,8176.0,5.0,No
+480.0,50.0,Masculino,33.98,Moderado,Ocasional,No,149.0,93.0,Normal,77.2,4.8,19676.0,9.0,No
+481.0,69.0,Masculino,39.82,Moderado,Ocasional,No,162.0,110.0,Normal,176.7,6.4,13409.0,7.0,
+,78.0,Femenino,20.18,Alto,Nunca,No,121.0,117.0,Alto,74.9,5.0,13319.0,2.0,Sí
+483.0,38.0,Otro,26.83,Moderado,Ocasional,No,104.0,93.0,Normal,117.7,5.5,1997.0,1.0,Sí
+484.0,49.0,Masculino,35.6,Alto,Ocasional,Sí,102.0,,Alto,140.5,5.6,12001.0,2.0,Sí
+,40.0,Otro,22.49,Moderado,Frecuente,No,94.0,97.0,Alto,,,5664.0,3.0,No
+486.0,,Femenino,30.21,Bajo,Frecuente,Sí,164.0,62.0,Alto,167.0,6.5,19741.0,2.0,No
+487.0,20.0,Femenino,34.13,Bajo,Nunca,No,163.0,101.0,Normal,71.1,9.7,19063.0,3.0,Sí
+488.0,35.0,Masculino,31.55,Alto,,No,141.0,115.0,Normal,91.9,4.8,14117.0,9.0,
+,42.0,Femenino,22.14,Moderado,Ocasional,No,166.0,118.0,Normal,145.5,9.8,12231.0,4.0,No
+490.0,59.0,Masculino,25.82,,Frecuente,Sí,130.0,65.0,Muy Alto,162.9,5.4,8440.0,9.0,No
+491.0,48.0,Femenino,35.24,Bajo,Nunca,Sí,142.0,114.0,Alto,189.2,8.6,12218.0,3.0,No
+492.0,71.0,Femenino,,Bajo,Frecuente,No,139.0,107.0,Muy Alto,,6.0,16608.0,1.0,
+493.0,75.0,Masculino,18.12,,Frecuente,Sí,104.0,108.0,,157.3,4.9,5090.0,5.0,Sí
+494.0,20.0,Masculino,34.74,Bajo,Nunca,No,96.0,78.0,Normal,121.3,9.1,8471.0,2.0,
+495.0,57.0,Masculino,18.78,Alto,Nunca,No,129.0,,Alto,70.2,5.9,4743.0,4.0,Sí
+,63.0,,34.41,Bajo,,Sí,117.0,77.0,Alto,85.6,8.0,11196.0,2.0,
+497.0,41.0,Femenino,22.45,Bajo,Frecuente,Sí,121.0,98.0,,139.5,7.4,8008.0,2.0,Sí
+,67.0,Otro,39.08,Moderado,Ocasional,Sí,104.0,,Alto,157.8,6.8,4324.0,3.0,No
+,49.0,Masculino,26.09,Bajo,Frecuente,Sí,174.0,111.0,Normal,,7.0,9632.0,5.0,Sí
+500.0,64.0,Femenino,25.19,Bajo,Frecuente,No,159.0,71.0,Alto,165.0,8.4,1226.0,4.0,No
+,39.0,Femenino,21.28,Alto,Ocasional,,154.0,64.0,Alto,,4.5,15863.0,2.0,Sí
+502.0,,Masculino,24.72,Bajo,,Sí,93.0,62.0,Alto,79.6,,17027.0,2.0,No
+503.0,19.0,Otro,37.29,Alto,Frecuente,No,100.0,70.0,Muy Alto,95.0,,19785.0,,Sí
+504.0,,Masculino,39.92,Bajo,,Sí,115.0,116.0,Alto,179.2,4.3,5718.0,7.0,Sí
+,59.0,Otro,26.1,,Nunca,,150.0,89.0,Alto,164.2,4.8,18408.0,6.0,No
+506.0,19.0,Femenino,27.87,,Ocasional,Sí,126.0,63.0,Muy Alto,186.3,8.3,6672.0,,No
+,43.0,Otro,33.89,Moderado,Nunca,Sí,112.0,64.0,Muy Alto,85.3,6.6,16262.0,1.0,Sí
+508.0,34.0,Femenino,37.5,Alto,Ocasional,No,174.0,60.0,Muy Alto,198.7,6.4,18254.0,6.0,
+509.0,57.0,Masculino,31.05,Alto,Ocasional,No,129.0,86.0,Muy Alto,97.2,4.8,4199.0,3.0,No
+510.0,50.0,Masculino,26.61,Alto,Frecuente,Sí,166.0,,,71.5,7.0,,,Sí
+511.0,26.0,Masculino,27.08,Moderado,Ocasional,Sí,112.0,,Normal,199.7,4.8,6270.0,,No
+512.0,60.0,Otro,33.3,Bajo,Nunca,No,105.0,,Alto,106.5,,13750.0,4.0,No
+513.0,,Femenino,18.07,Alto,Nunca,Sí,150.0,71.0,Normal,156.8,8.6,8897.0,8.0,Sí
+514.0,65.0,Masculino,31.63,Alto,Nunca,Sí,157.0,72.0,Alto,93.0,5.5,9664.0,4.0,No
+515.0,,,25.82,Moderado,Ocasional,Sí,169.0,,Normal,145.4,6.9,15892.0,4.0,Sí
+516.0,46.0,Femenino,35.47,Alto,Nunca,Sí,120.0,61.0,Muy Alto,187.5,10.0,9271.0,4.0,No
+517.0,59.0,Masculino,20.05,Bajo,Ocasional,Sí,,96.0,,111.6,8.1,6158.0,6.0,No
+518.0,72.0,Femenino,30.94,Moderado,,Sí,114.0,104.0,Normal,157.1,9.0,,,Sí
+519.0,43.0,Femenino,28.58,,Nunca,Sí,133.0,75.0,Normal,94.4,,1589.0,5.0,
+520.0,,,32.13,Bajo,Ocasional,Sí,,107.0,Alto,151.2,8.6,,8.0,Sí
+521.0,,Femenino,19.43,Moderado,,Sí,179.0,83.0,Alto,113.7,4.2,17267.0,8.0,No
+522.0,42.0,Femenino,30.76,Alto,Frecuente,No,98.0,94.0,Alto,97.5,4.7,19268.0,4.0,No
+523.0,41.0,Otro,30.35,Bajo,Ocasional,No,101.0,81.0,,110.7,5.2,17159.0,9.0,No
+524.0,,Masculino,,Bajo,Ocasional,No,158.0,95.0,Muy Alto,93.2,6.4,15263.0,9.0,No
+525.0,77.0,Otro,31.28,Bajo,Ocasional,Sí,143.0,70.0,Muy Alto,187.2,9.1,6399.0,5.0,Sí
+526.0,75.0,,32.88,Bajo,Frecuente,Sí,143.0,114.0,Muy Alto,121.6,6.1,9503.0,,No
+527.0,24.0,Otro,35.71,Moderado,,No,,117.0,Alto,101.9,7.9,2076.0,5.0,No
+528.0,74.0,,23.94,Moderado,Nunca,Sí,145.0,105.0,Muy Alto,128.3,8.3,8235.0,3.0,No
+529.0,,Masculino,36.15,Bajo,Nunca,No,158.0,88.0,Muy Alto,111.7,7.5,17417.0,,Sí
+530.0,,Masculino,28.96,Alto,Nunca,Sí,166.0,94.0,Muy Alto,166.8,6.1,2841.0,9.0,Sí
+,37.0,Otro,19.7,Bajo,Ocasional,No,147.0,107.0,Muy Alto,196.3,7.5,5481.0,4.0,Sí
+532.0,18.0,Otro,19.29,Alto,Nunca,No,167.0,113.0,Normal,126.9,6.1,2134.0,9.0,Sí
+533.0,25.0,,25.35,Bajo,Ocasional,No,164.0,74.0,Alto,181.9,4.5,14139.0,9.0,
+534.0,63.0,Otro,35.27,Alto,Nunca,,131.0,119.0,Alto,143.6,10.0,8771.0,7.0,No
+535.0,33.0,Otro,33.57,Bajo,Frecuente,No,127.0,90.0,Muy Alto,90.4,,9567.0,8.0,
+536.0,31.0,Otro,35.35,Alto,Frecuente,Sí,157.0,101.0,Normal,159.8,4.4,9915.0,3.0,Sí
+537.0,29.0,Femenino,29.38,Bajo,Frecuente,,142.0,100.0,Alto,136.7,,,5.0,Sí
+538.0,68.0,Femenino,27.68,Bajo,,Sí,122.0,102.0,,154.6,5.8,2913.0,3.0,No
+539.0,40.0,,21.24,Alto,Ocasional,Sí,160.0,75.0,Muy Alto,185.7,7.9,,7.0,No
+540.0,32.0,Otro,25.22,,Nunca,Sí,145.0,,Muy Alto,127.3,6.0,2942.0,6.0,No
+541.0,45.0,Femenino,27.55,,Frecuente,Sí,161.0,108.0,Alto,187.2,6.3,18715.0,3.0,Sí
+542.0,51.0,Femenino,19.95,Moderado,Ocasional,Sí,140.0,91.0,Alto,167.6,5.6,1337.0,9.0,No
+543.0,,Masculino,,Bajo,Frecuente,No,163.0,110.0,Normal,133.5,6.1,15256.0,1.0,No
+,49.0,Masculino,31.16,Alto,Frecuente,No,132.0,61.0,Alto,148.4,6.5,11057.0,3.0,Sí
+,40.0,Femenino,34.18,Alto,Ocasional,No,104.0,83.0,Alto,112.3,8.3,9983.0,7.0,Sí
+546.0,39.0,Otro,39.96,,Ocasional,Sí,127.0,82.0,Muy Alto,197.9,7.1,17283.0,3.0,No
+547.0,68.0,Otro,38.53,,,Sí,104.0,61.0,Alto,156.8,9.7,4700.0,3.0,Sí
+548.0,42.0,Otro,32.14,Moderado,Nunca,Sí,94.0,97.0,Muy Alto,75.7,4.3,13145.0,2.0,No
+549.0,75.0,Otro,27.27,Bajo,Frecuente,,172.0,90.0,Alto,112.5,7.0,7118.0,9.0,No
+550.0,79.0,Masculino,32.0,Moderado,Frecuente,No,143.0,110.0,,151.0,7.5,3673.0,4.0,No
+,,,35.28,Moderado,Nunca,Sí,140.0,99.0,Alto,77.3,9.5,,6.0,No
+552.0,39.0,Otro,20.6,,Nunca,No,99.0,85.0,Normal,73.1,4.3,,2.0,Sí
+553.0,75.0,Masculino,27.02,Alto,Ocasional,Sí,101.0,88.0,Muy Alto,128.5,7.4,9250.0,9.0,Sí
+554.0,75.0,Otro,36.48,Alto,,No,93.0,,Normal,113.2,9.1,19446.0,7.0,Sí
+555.0,39.0,Femenino,26.44,Bajo,,Sí,107.0,117.0,Alto,127.0,5.5,18638.0,5.0,No
+556.0,66.0,Masculino,30.58,Alto,Frecuente,No,169.0,73.0,Normal,104.2,9.3,4688.0,7.0,No
+557.0,69.0,Femenino,30.93,Moderado,Nunca,Sí,,84.0,Muy Alto,91.4,4.1,4748.0,4.0,No
+558.0,59.0,Femenino,22.06,Bajo,Frecuente,No,,107.0,Alto,159.6,8.4,7342.0,7.0,Sí
+559.0,23.0,Masculino,25.97,Bajo,Nunca,Sí,176.0,60.0,Normal,136.9,9.6,17275.0,2.0,Sí
+560.0,,Masculino,25.36,Bajo,Ocasional,,,,Normal,96.0,,14665.0,7.0,No
+561.0,,Masculino,18.58,Alto,Nunca,No,125.0,62.0,Muy Alto,111.5,6.6,5130.0,,Sí
+562.0,,Masculino,18.53,Bajo,Nunca,Sí,156.0,113.0,Normal,146.9,4.3,4029.0,4.0,Sí
+563.0,77.0,Masculino,36.3,Bajo,Nunca,No,98.0,85.0,Muy Alto,79.4,9.5,14182.0,1.0,Sí
+564.0,54.0,Masculino,,Bajo,Frecuente,Sí,150.0,77.0,Alto,89.2,6.8,5035.0,3.0,Sí
+565.0,50.0,,29.4,Alto,Ocasional,Sí,142.0,68.0,Alto,79.5,,16127.0,5.0,No
+566.0,25.0,Otro,24.57,Moderado,Nunca,Sí,107.0,97.0,Normal,175.6,8.1,3899.0,5.0,Sí
+567.0,70.0,Femenino,38.69,Bajo,Frecuente,No,132.0,82.0,Alto,167.8,6.9,10638.0,2.0,No
+568.0,77.0,Masculino,23.7,Moderado,Ocasional,No,124.0,80.0,Alto,167.9,,,4.0,Sí
+569.0,61.0,Otro,27.45,Alto,Frecuente,Sí,152.0,116.0,Normal,163.1,5.3,18296.0,1.0,
+570.0,61.0,Otro,37.2,Alto,Frecuente,Sí,167.0,60.0,Alto,,4.4,,9.0,No
+571.0,22.0,Otro,36.52,Alto,Ocasional,No,93.0,80.0,Normal,132.0,7.4,19095.0,1.0,Sí
+572.0,56.0,Femenino,22.09,Alto,Nunca,No,,86.0,Muy Alto,,7.7,2439.0,,No
+573.0,,Masculino,35.66,Moderado,Frecuente,No,134.0,101.0,,75.0,7.0,,7.0,No
+574.0,23.0,Otro,28.08,Bajo,Frecuente,Sí,139.0,118.0,Muy Alto,150.8,8.9,6375.0,,Sí
+575.0,62.0,Femenino,28.63,Alto,Nunca,Sí,,65.0,Normal,,9.2,9877.0,1.0,No
+576.0,49.0,Femenino,20.94,Alto,Nunca,Sí,117.0,114.0,Normal,135.0,7.7,3466.0,7.0,Sí
+577.0,69.0,Femenino,19.77,Moderado,Ocasional,Sí,131.0,103.0,Alto,116.5,4.1,,3.0,
+578.0,47.0,Otro,34.01,Moderado,Ocasional,Sí,,95.0,Alto,106.1,8.2,13329.0,6.0,Sí
+579.0,64.0,Masculino,28.92,Alto,Ocasional,No,165.0,87.0,Alto,153.6,,12630.0,6.0,Sí
+580.0,52.0,Otro,27.61,Bajo,Nunca,Sí,158.0,104.0,Alto,160.1,7.4,18349.0,4.0,
+581.0,72.0,Otro,34.05,,Frecuente,No,90.0,,Alto,183.2,7.9,15203.0,6.0,Sí
+582.0,57.0,Masculino,34.84,Alto,Frecuente,No,128.0,118.0,Normal,114.5,6.1,7928.0,4.0,Sí
+,69.0,Masculino,21.5,Moderado,Ocasional,Sí,179.0,99.0,Normal,170.1,9.5,10111.0,8.0,
+584.0,33.0,Masculino,31.42,Alto,Nunca,,106.0,117.0,Muy Alto,143.0,4.8,9120.0,9.0,No
+585.0,30.0,Femenino,20.98,Alto,Frecuente,Sí,177.0,111.0,Muy Alto,184.8,8.0,12064.0,2.0,
+586.0,67.0,Masculino,34.53,Moderado,Ocasional,,,62.0,Muy Alto,138.6,4.0,,7.0,No
+587.0,77.0,Otro,,,Frecuente,,135.0,71.0,,137.3,9.5,,9.0,No
+,59.0,Masculino,39.05,Alto,Frecuente,Sí,131.0,98.0,Normal,145.1,4.7,1871.0,9.0,No
+589.0,47.0,Otro,19.52,Alto,Nunca,,128.0,71.0,Normal,167.4,4.6,13582.0,,Sí
+590.0,36.0,Femenino,19.26,Moderado,Nunca,Sí,179.0,61.0,Normal,195.4,6.0,1863.0,1.0,
+591.0,34.0,Otro,24.21,Bajo,Frecuente,,138.0,115.0,Alto,79.6,6.2,15883.0,6.0,No
+592.0,73.0,Otro,23.76,Bajo,Ocasional,Sí,151.0,105.0,Alto,76.9,5.3,13145.0,8.0,Sí
+593.0,36.0,Masculino,23.43,Moderado,Nunca,Sí,127.0,81.0,Muy Alto,,7.5,4055.0,,Sí
+,45.0,Masculino,37.94,Bajo,Frecuente,Sí,112.0,82.0,Alto,138.9,6.7,13186.0,2.0,No
+595.0,75.0,Otro,23.49,Alto,Nunca,No,111.0,89.0,Normal,,,3682.0,1.0,Sí
+596.0,72.0,Masculino,23.98,Bajo,,No,93.0,64.0,Muy Alto,132.7,5.9,13882.0,5.0,
+597.0,,,34.71,Alto,Nunca,Sí,138.0,68.0,Muy Alto,82.2,8.9,6278.0,2.0,Sí
+598.0,54.0,Femenino,27.89,Bajo,Frecuente,No,148.0,80.0,Alto,169.9,8.1,14805.0,4.0,
+599.0,43.0,Masculino,35.09,Moderado,Ocasional,Sí,162.0,70.0,Muy Alto,167.1,8.3,17997.0,1.0,Sí
+600.0,70.0,Femenino,19.44,Bajo,Ocasional,No,157.0,64.0,Alto,110.5,8.2,2872.0,7.0,No
+601.0,79.0,Masculino,28.73,Bajo,,No,160.0,94.0,,,5.9,12346.0,,Sí
+602.0,40.0,Otro,18.74,,Nunca,Sí,176.0,86.0,Muy Alto,178.9,,,5.0,Sí
+603.0,26.0,Otro,,Moderado,Frecuente,Sí,91.0,108.0,Alto,79.4,5.6,14871.0,2.0,No
+604.0,29.0,Femenino,37.94,Bajo,,Sí,138.0,,Alto,184.5,9.0,16946.0,,
+605.0,70.0,Masculino,21.06,Moderado,Ocasional,Sí,177.0,83.0,Alto,103.4,9.9,8189.0,1.0,Sí
+606.0,18.0,Masculino,29.71,Alto,Ocasional,Sí,120.0,90.0,Alto,,7.0,13752.0,7.0,No
+607.0,75.0,,27.04,Bajo,Frecuente,No,129.0,92.0,Muy Alto,191.7,4.1,12565.0,1.0,Sí
+608.0,,Otro,25.64,Moderado,Nunca,No,137.0,98.0,Normal,158.2,4.8,7942.0,6.0,No
+609.0,18.0,Femenino,37.8,Moderado,Ocasional,Sí,140.0,89.0,Normal,123.9,5.9,15730.0,6.0,Sí
+610.0,64.0,Otro,18.48,Bajo,Frecuente,Sí,132.0,105.0,Alto,159.6,7.5,12383.0,5.0,No
+611.0,51.0,Masculino,32.6,Alto,Nunca,Sí,144.0,96.0,Alto,114.7,,1244.0,2.0,Sí
+612.0,49.0,Otro,39.19,Moderado,Nunca,No,177.0,110.0,Alto,106.0,9.7,,2.0,No
+613.0,,Femenino,30.32,Bajo,Ocasional,Sí,138.0,,,199.6,6.2,14917.0,9.0,Sí
+,71.0,Masculino,38.61,Alto,Ocasional,Sí,179.0,119.0,Alto,,9.5,14721.0,5.0,Sí
+615.0,65.0,Femenino,19.15,Moderado,Nunca,No,169.0,90.0,Muy Alto,,8.7,6767.0,5.0,Sí
+616.0,42.0,Femenino,27.21,Moderado,Nunca,No,146.0,70.0,,116.2,8.5,11247.0,7.0,No
+617.0,57.0,Otro,23.72,Alto,Ocasional,No,166.0,82.0,Muy Alto,76.4,7.6,4515.0,6.0,No
+618.0,62.0,Femenino,34.08,,Nunca,No,104.0,,Normal,74.0,7.8,2910.0,2.0,Sí
+619.0,,Otro,39.59,,Ocasional,Sí,116.0,61.0,Alto,142.0,7.8,11750.0,1.0,Sí
+620.0,18.0,,,Bajo,Nunca,No,157.0,,Alto,169.1,7.8,9076.0,5.0,Sí
+621.0,33.0,Otro,32.39,Moderado,Ocasional,No,169.0,100.0,Alto,139.9,7.3,19006.0,4.0,Sí
+622.0,78.0,Masculino,22.36,Alto,Frecuente,Sí,153.0,86.0,Normal,179.3,9.9,,3.0,No
+623.0,56.0,Otro,30.44,Alto,Ocasional,Sí,119.0,,Normal,74.3,8.4,5314.0,2.0,No
+624.0,22.0,Femenino,,Alto,Ocasional,Sí,125.0,61.0,Normal,117.7,8.7,,,No
+625.0,39.0,Otro,,Moderado,Frecuente,No,156.0,98.0,Normal,100.8,9.2,3015.0,,Sí
+626.0,46.0,Otro,,Alto,Nunca,Sí,175.0,96.0,Muy Alto,128.1,5.3,11236.0,2.0,Sí
+627.0,72.0,,25.69,Alto,Frecuente,No,175.0,80.0,Normal,79.4,4.5,,4.0,No
+628.0,20.0,Femenino,20.51,Moderado,Ocasional,No,138.0,117.0,Normal,194.0,6.9,10023.0,3.0,No
+629.0,29.0,Otro,,Bajo,Nunca,No,165.0,64.0,Normal,99.0,7.1,12884.0,9.0,No
+630.0,43.0,Femenino,22.96,,Frecuente,Sí,144.0,111.0,Alto,189.9,9.0,17352.0,7.0,No
+631.0,33.0,Otro,23.52,Moderado,Nunca,No,174.0,104.0,Alto,125.4,6.7,13882.0,3.0,Sí
+632.0,68.0,Otro,36.71,Alto,Nunca,Sí,,80.0,Alto,198.1,7.4,11346.0,8.0,Sí
+633.0,54.0,Femenino,30.35,Moderado,Frecuente,Sí,157.0,,Muy Alto,142.0,7.2,15035.0,9.0,Sí
+634.0,39.0,Otro,29.51,Bajo,Nunca,Sí,133.0,79.0,Muy Alto,191.0,4.2,17108.0,,No
+635.0,,Femenino,20.52,Bajo,Frecuente,No,,97.0,Normal,70.7,7.7,3853.0,6.0,Sí
+636.0,46.0,Otro,,,Ocasional,No,147.0,79.0,Alto,167.3,9.0,19620.0,4.0,No
+637.0,31.0,Masculino,33.9,Moderado,Nunca,No,,109.0,Muy Alto,187.4,4.9,5176.0,5.0,No
+638.0,45.0,Femenino,19.49,Bajo,Ocasional,Sí,142.0,84.0,Alto,88.2,7.6,,8.0,
+639.0,,Otro,33.57,Moderado,Ocasional,No,,61.0,Muy Alto,82.5,,7829.0,3.0,No
+640.0,64.0,Otro,29.96,Bajo,Nunca,No,168.0,116.0,Muy Alto,125.2,5.0,2886.0,2.0,No
+641.0,66.0,Masculino,19.8,Moderado,Frecuente,No,112.0,91.0,Normal,191.4,4.7,,3.0,Sí
+642.0,47.0,Femenino,,Moderado,Nunca,No,117.0,,Normal,140.5,9.9,13589.0,7.0,Sí
+643.0,63.0,Otro,28.66,Moderado,Ocasional,,105.0,65.0,Muy Alto,138.6,6.4,9391.0,8.0,Sí
+644.0,79.0,Masculino,21.65,,Ocasional,Sí,126.0,100.0,,88.3,5.4,14350.0,1.0,No
+645.0,69.0,,38.81,Moderado,Frecuente,Sí,110.0,116.0,Muy Alto,70.1,5.0,8899.0,7.0,
+646.0,22.0,Femenino,36.7,Bajo,Nunca,Sí,168.0,62.0,Muy Alto,175.3,8.0,1306.0,9.0,No
+647.0,29.0,Otro,32.72,,Ocasional,Sí,106.0,92.0,,81.4,7.7,,3.0,Sí
+648.0,33.0,Otro,28.17,Moderado,Ocasional,,126.0,60.0,Normal,152.4,7.9,19040.0,,No
+649.0,43.0,Otro,,Moderado,Ocasional,,166.0,110.0,Normal,188.9,4.5,8244.0,8.0,No
+650.0,43.0,Otro,32.32,Bajo,Frecuente,No,108.0,64.0,,97.1,9.4,7611.0,4.0,Sí
+651.0,65.0,Masculino,30.0,Bajo,Ocasional,Sí,119.0,72.0,Alto,156.5,6.3,15134.0,8.0,No
+652.0,38.0,Masculino,19.37,Alto,Ocasional,Sí,,78.0,Alto,,,19148.0,5.0,Sí
+653.0,56.0,Femenino,29.28,Bajo,Nunca,Sí,107.0,71.0,Alto,148.5,6.8,1275.0,3.0,Sí
+654.0,53.0,Masculino,35.74,Alto,Nunca,No,,107.0,Normal,91.3,,6271.0,4.0,Sí
+655.0,50.0,Masculino,28.1,Alto,Ocasional,No,151.0,84.0,Normal,165.7,9.2,8331.0,4.0,No
+656.0,79.0,Femenino,19.14,Alto,Ocasional,Sí,125.0,116.0,Normal,109.2,9.6,,8.0,No
+657.0,47.0,Masculino,35.3,Moderado,Nunca,No,173.0,110.0,Alto,130.2,5.8,12573.0,6.0,
+658.0,54.0,Masculino,22.43,Moderado,Frecuente,Sí,141.0,94.0,Alto,147.9,9.2,11072.0,7.0,No
+659.0,40.0,Femenino,23.69,Bajo,Frecuente,Sí,108.0,71.0,Muy Alto,92.3,8.7,17017.0,9.0,Sí
+660.0,75.0,Femenino,21.62,Alto,Frecuente,Sí,133.0,89.0,Alto,166.4,9.6,19228.0,6.0,No
+661.0,27.0,Femenino,25.26,Moderado,Frecuente,No,96.0,64.0,Muy Alto,109.3,5.5,17455.0,3.0,
+662.0,71.0,,34.65,Moderado,Frecuente,Sí,133.0,93.0,Normal,156.1,7.5,8386.0,,Sí
+663.0,22.0,Otro,29.43,Moderado,Frecuente,Sí,157.0,81.0,Alto,90.6,5.6,7862.0,,
+664.0,53.0,Femenino,22.51,,Frecuente,Sí,123.0,98.0,Normal,159.5,8.9,,2.0,No
+665.0,51.0,Femenino,37.31,Moderado,Frecuente,No,155.0,72.0,Normal,86.7,,10487.0,1.0,
+666.0,69.0,Femenino,37.35,Alto,Nunca,,158.0,116.0,Normal,125.3,7.4,16061.0,1.0,No
+,48.0,Otro,37.15,Alto,Frecuente,,,106.0,,102.1,6.0,8635.0,4.0,Sí
+668.0,27.0,Otro,23.25,Alto,Frecuente,Sí,99.0,113.0,Alto,167.3,5.9,15604.0,3.0,No
+669.0,75.0,Masculino,27.93,Alto,Frecuente,No,131.0,62.0,,104.1,7.9,18427.0,5.0,No
+670.0,36.0,Masculino,39.67,Bajo,Ocasional,Sí,130.0,119.0,,,9.1,4042.0,9.0,Sí
+,75.0,Femenino,34.98,Alto,Nunca,Sí,166.0,112.0,Alto,185.9,7.7,18198.0,8.0,Sí
+672.0,49.0,Otro,18.6,Moderado,Nunca,No,158.0,79.0,Normal,95.5,9.1,11386.0,9.0,Sí
+673.0,18.0,Otro,19.43,,Nunca,No,,90.0,Alto,,5.6,12692.0,5.0,No
+674.0,,Otro,28.21,Bajo,Frecuente,Sí,99.0,64.0,Muy Alto,81.4,7.1,16225.0,8.0,No
+675.0,22.0,,38.0,Moderado,Frecuente,No,149.0,83.0,Normal,120.9,6.7,17693.0,4.0,No
+676.0,62.0,Masculino,29.85,Alto,Ocasional,Sí,140.0,99.0,Muy Alto,162.7,,7661.0,,Sí
+677.0,21.0,Femenino,28.95,Alto,Nunca,Sí,110.0,,Normal,155.7,7.3,11253.0,3.0,Sí
+678.0,33.0,Masculino,20.32,,,Sí,97.0,92.0,Muy Alto,151.2,8.0,19261.0,5.0,No
+679.0,41.0,Masculino,32.45,Moderado,Nunca,No,154.0,,Normal,106.7,7.6,19870.0,3.0,Sí
+680.0,33.0,Femenino,36.09,Moderado,Ocasional,Sí,167.0,83.0,Alto,119.1,8.4,12937.0,5.0,No
+681.0,72.0,Masculino,26.37,Bajo,Ocasional,No,174.0,109.0,Normal,83.4,7.4,,5.0,Sí
+682.0,19.0,Masculino,35.06,Moderado,Ocasional,Sí,119.0,79.0,Alto,163.5,4.4,15598.0,6.0,No
+683.0,66.0,Otro,39.22,Moderado,Nunca,No,174.0,119.0,Normal,135.5,4.7,7786.0,9.0,No
+684.0,45.0,Masculino,,Alto,Frecuente,No,138.0,75.0,Normal,162.1,7.6,5014.0,1.0,No
+685.0,49.0,Femenino,29.51,Moderado,Frecuente,Sí,98.0,109.0,Muy Alto,102.4,5.6,,6.0,Sí
+686.0,44.0,Femenino,24.32,Alto,Ocasional,No,106.0,111.0,Muy Alto,,4.5,13545.0,1.0,Sí
+687.0,37.0,Masculino,35.44,Alto,Frecuente,Sí,158.0,71.0,Muy Alto,113.4,,6353.0,6.0,No
+688.0,41.0,Otro,30.71,Moderado,Ocasional,Sí,147.0,72.0,Normal,73.3,7.3,4407.0,2.0,No
+689.0,29.0,Otro,31.96,Bajo,Nunca,Sí,,104.0,Normal,,6.0,18358.0,8.0,
+690.0,67.0,Masculino,35.55,Bajo,Ocasional,Sí,151.0,101.0,Normal,174.4,8.3,17053.0,3.0,No
+691.0,52.0,Masculino,,Moderado,,,141.0,98.0,Alto,186.6,7.9,14189.0,6.0,No
+692.0,77.0,Femenino,38.13,,,No,150.0,84.0,Alto,137.4,6.0,12213.0,6.0,No
+693.0,50.0,Masculino,29.73,Alto,Frecuente,Sí,129.0,105.0,Normal,,8.5,8248.0,4.0,Sí
+694.0,50.0,Otro,21.48,Alto,,No,127.0,91.0,Muy Alto,74.0,7.9,5369.0,5.0,
+695.0,78.0,Masculino,33.31,Moderado,Ocasional,,132.0,83.0,Muy Alto,184.3,7.8,9050.0,2.0,Sí
+696.0,68.0,Femenino,35.45,Bajo,Frecuente,Sí,152.0,107.0,Muy Alto,,7.3,17848.0,8.0,
+697.0,60.0,Femenino,24.97,,Frecuente,No,108.0,106.0,Normal,192.8,4.1,6415.0,7.0,No
+698.0,54.0,Femenino,36.86,Alto,,Sí,139.0,103.0,Muy Alto,133.6,8.2,16398.0,6.0,
+699.0,29.0,Femenino,37.94,Moderado,Nunca,No,122.0,68.0,Normal,114.5,,9115.0,7.0,No
+700.0,20.0,Femenino,24.09,Bajo,Frecuente,,102.0,99.0,Alto,190.1,9.7,1287.0,1.0,Sí
+701.0,18.0,Masculino,39.64,Moderado,Nunca,,167.0,109.0,Muy Alto,73.2,8.9,4195.0,5.0,Sí
+702.0,50.0,,21.1,Bajo,Ocasional,Sí,,82.0,Alto,145.6,7.5,19376.0,7.0,No
+703.0,57.0,Masculino,22.44,Alto,,,132.0,109.0,Muy Alto,141.4,5.5,8450.0,1.0,Sí
+704.0,27.0,Masculino,22.05,Alto,Frecuente,Sí,,72.0,Normal,98.5,5.2,3925.0,2.0,Sí
+,60.0,,37.67,Moderado,,No,125.0,119.0,Normal,125.8,6.0,15515.0,,No
+706.0,61.0,Otro,32.39,Alto,Ocasional,No,99.0,118.0,Normal,154.8,6.9,18504.0,3.0,No
+707.0,46.0,Masculino,21.35,,Nunca,,95.0,91.0,Normal,164.5,5.8,6310.0,6.0,No
+708.0,30.0,Otro,27.69,Alto,Nunca,No,146.0,109.0,Muy Alto,70.1,7.1,17830.0,7.0,Sí
+709.0,29.0,Masculino,31.54,Moderado,Frecuente,Sí,90.0,,Alto,191.8,5.0,12760.0,9.0,No
+710.0,48.0,Masculino,19.84,Moderado,Ocasional,Sí,160.0,95.0,Normal,,9.9,15896.0,5.0,No
+711.0,63.0,Otro,37.41,Moderado,Ocasional,No,147.0,108.0,Muy Alto,100.4,,18105.0,4.0,No
+712.0,,Femenino,35.68,Bajo,Ocasional,No,110.0,64.0,Alto,104.3,9.6,,2.0,
+713.0,78.0,Masculino,,Bajo,Ocasional,Sí,169.0,81.0,Normal,74.9,9.5,11774.0,3.0,Sí
+714.0,68.0,Masculino,39.28,Bajo,Ocasional,Sí,145.0,75.0,,86.0,7.2,16457.0,5.0,No
+715.0,67.0,Masculino,27.19,Bajo,Nunca,Sí,176.0,,Normal,198.2,8.3,10543.0,2.0,No
+716.0,52.0,Otro,39.65,Bajo,,Sí,,69.0,Alto,,6.6,,,Sí
+717.0,40.0,Femenino,32.69,,Nunca,No,,83.0,,85.0,7.8,12576.0,1.0,Sí
+718.0,34.0,Otro,31.96,Bajo,Frecuente,No,114.0,,Normal,83.9,,19109.0,4.0,No
+719.0,,Otro,21.65,Bajo,Ocasional,Sí,117.0,108.0,Muy Alto,163.5,5.8,4413.0,7.0,
+720.0,25.0,Femenino,37.4,Alto,Frecuente,,94.0,77.0,,181.1,7.5,1494.0,,No
+721.0,46.0,Otro,27.4,Bajo,Ocasional,Sí,110.0,66.0,Normal,,7.0,1947.0,8.0,No
+722.0,43.0,Femenino,21.57,Moderado,,Sí,107.0,63.0,,72.7,7.5,1022.0,6.0,Sí
+723.0,27.0,Masculino,18.28,Bajo,Frecuente,Sí,136.0,85.0,Alto,99.0,5.7,2128.0,6.0,No
+724.0,43.0,Femenino,,Bajo,Nunca,Sí,159.0,,Muy Alto,77.3,6.2,14986.0,1.0,No
+725.0,79.0,Masculino,29.6,Moderado,Ocasional,No,,119.0,Alto,83.4,,17161.0,5.0,Sí
+726.0,51.0,Otro,33.83,Moderado,Ocasional,No,108.0,114.0,Alto,126.1,4.3,17160.0,3.0,No
+727.0,68.0,Otro,37.59,Moderado,Ocasional,No,154.0,75.0,Normal,99.9,5.5,17941.0,1.0,Sí
+728.0,58.0,Masculino,19.75,Moderado,Nunca,Sí,92.0,94.0,Normal,137.1,4.4,10808.0,8.0,
+729.0,24.0,Otro,34.09,Bajo,Ocasional,Sí,131.0,85.0,Muy Alto,,4.6,,7.0,No
+730.0,21.0,Femenino,22.12,Moderado,,Sí,110.0,77.0,Alto,192.3,,8182.0,,Sí
+731.0,75.0,Masculino,36.88,Moderado,Frecuente,,129.0,88.0,Alto,187.8,4.2,19040.0,4.0,Sí
+732.0,70.0,Otro,36.02,,Ocasional,Sí,156.0,82.0,,143.7,8.0,9998.0,6.0,
+733.0,67.0,Masculino,29.9,Moderado,Ocasional,Sí,114.0,112.0,Muy Alto,116.1,5.6,4312.0,9.0,Sí
+734.0,62.0,Femenino,33.63,Moderado,,,144.0,,Alto,119.5,9.2,14329.0,3.0,Sí
+,28.0,,24.92,Alto,Frecuente,Sí,173.0,74.0,Normal,123.5,6.9,16802.0,9.0,Sí
+736.0,46.0,Otro,28.37,Alto,Ocasional,No,141.0,108.0,Muy Alto,164.6,5.8,,4.0,No
+737.0,73.0,Femenino,36.08,Bajo,,No,133.0,92.0,Normal,128.7,7.1,3324.0,5.0,Sí
+738.0,53.0,Masculino,28.1,Alto,Nunca,,174.0,84.0,Normal,181.4,6.3,10639.0,7.0,No
+739.0,42.0,Femenino,,Bajo,Ocasional,No,145.0,80.0,Muy Alto,192.7,7.4,14338.0,6.0,Sí
+740.0,38.0,Masculino,28.87,Alto,,Sí,144.0,76.0,Normal,113.7,4.7,11753.0,8.0,No
+741.0,78.0,Masculino,36.22,Alto,Frecuente,No,,82.0,Alto,142.9,10.0,6984.0,8.0,No
+742.0,74.0,Femenino,25.37,Bajo,Frecuente,Sí,159.0,,Muy Alto,82.4,6.6,19895.0,8.0,Sí
+743.0,53.0,Otro,21.82,,Frecuente,No,166.0,,Normal,96.1,6.1,16142.0,3.0,No
+744.0,27.0,Femenino,,Bajo,Ocasional,Sí,176.0,76.0,Alto,123.8,8.3,12063.0,6.0,No
+745.0,54.0,Masculino,36.17,Alto,Frecuente,,162.0,117.0,Alto,96.8,6.2,1362.0,7.0,No
+746.0,26.0,Masculino,,Moderado,Frecuente,No,170.0,73.0,Normal,,9.0,4454.0,9.0,Sí
+747.0,41.0,Femenino,23.28,Alto,Nunca,No,155.0,88.0,Alto,90.6,6.7,4255.0,4.0,Sí
+748.0,,Otro,21.12,Bajo,Frecuente,Sí,108.0,79.0,Muy Alto,129.2,8.3,,,No
+749.0,,Otro,25.65,Alto,Nunca,Sí,172.0,89.0,Normal,148.7,4.6,18869.0,8.0,Sí
+750.0,52.0,Masculino,27.91,Bajo,Nunca,No,96.0,78.0,Alto,,,6349.0,1.0,Sí
+,65.0,Masculino,34.47,Bajo,Frecuente,Sí,152.0,112.0,Alto,119.8,8.4,8195.0,6.0,No
+752.0,53.0,Otro,32.33,Moderado,Nunca,No,,98.0,Normal,183.0,5.3,11047.0,4.0,No
+753.0,35.0,Femenino,31.66,,Ocasional,Sí,131.0,115.0,Normal,143.9,4.9,,5.0,Sí
+754.0,66.0,Masculino,25.75,Bajo,Ocasional,No,148.0,72.0,Normal,127.1,,10399.0,5.0,Sí
+755.0,56.0,Masculino,36.51,Alto,Frecuente,Sí,109.0,77.0,Normal,78.7,9.9,14686.0,2.0,Sí
+756.0,49.0,,28.37,Bajo,Ocasional,No,162.0,82.0,Muy Alto,130.4,5.5,9035.0,8.0,No
+757.0,41.0,Femenino,39.54,,Nunca,No,106.0,105.0,Normal,176.7,6.7,2507.0,2.0,Sí
+758.0,40.0,Otro,31.95,Alto,,,,92.0,Muy Alto,149.9,4.2,18387.0,4.0,Sí
+759.0,79.0,,,Alto,Frecuente,No,136.0,98.0,Muy Alto,178.2,6.4,15776.0,5.0,Sí
+760.0,,Femenino,,Alto,Frecuente,Sí,91.0,99.0,Normal,134.2,7.4,18309.0,1.0,No
+761.0,54.0,Femenino,25.15,Alto,Nunca,No,152.0,77.0,Muy Alto,85.4,9.7,,6.0,No
+,29.0,Masculino,33.1,Bajo,Frecuente,Sí,151.0,68.0,Normal,71.8,7.1,4927.0,2.0,No
+763.0,66.0,Otro,,Bajo,Ocasional,Sí,108.0,92.0,Normal,109.4,8.9,18369.0,5.0,Sí
+764.0,72.0,Otro,21.85,Moderado,Frecuente,No,106.0,91.0,,160.7,7.3,16797.0,6.0,Sí
+765.0,30.0,Femenino,36.83,Bajo,Nunca,Sí,158.0,113.0,Normal,172.7,4.2,5231.0,8.0,No
+,40.0,Masculino,23.0,Alto,Frecuente,Sí,128.0,76.0,Alto,108.4,5.9,6302.0,9.0,Sí
+767.0,42.0,Masculino,36.41,,Ocasional,,171.0,78.0,Muy Alto,134.4,7.5,6291.0,6.0,Sí
+768.0,52.0,,24.14,Alto,,No,160.0,86.0,,,9.7,1908.0,5.0,Sí
+769.0,58.0,Masculino,32.14,Bajo,Ocasional,Sí,,,Muy Alto,123.4,9.2,16123.0,4.0,No
+770.0,47.0,Masculino,33.27,Moderado,,Sí,128.0,94.0,,100.1,5.4,,2.0,Sí
+771.0,34.0,,29.28,Alto,Frecuente,,125.0,115.0,Muy Alto,87.7,5.3,15239.0,2.0,Sí
+772.0,66.0,Masculino,24.72,Moderado,Nunca,No,129.0,96.0,Muy Alto,95.6,5.2,3586.0,7.0,No
+773.0,79.0,Femenino,22.68,,Nunca,Sí,134.0,93.0,Normal,77.2,9.5,10335.0,5.0,Sí
+,37.0,Otro,18.73,Bajo,Frecuente,,93.0,79.0,Muy Alto,95.8,9.1,16640.0,7.0,No
+775.0,65.0,Masculino,24.69,Alto,Ocasional,Sí,114.0,84.0,Normal,71.2,8.6,18715.0,1.0,Sí
+776.0,42.0,,32.37,Moderado,Frecuente,Sí,158.0,63.0,Alto,151.5,6.4,11534.0,,No
+,39.0,Otro,38.64,Moderado,,Sí,,69.0,Normal,111.1,7.0,2806.0,5.0,No
+778.0,30.0,Masculino,37.17,Alto,,No,165.0,69.0,Normal,196.5,6.8,11292.0,,Sí
+779.0,76.0,Masculino,34.85,Moderado,Nunca,,157.0,83.0,Muy Alto,95.2,,18189.0,8.0,
+780.0,36.0,Otro,,Moderado,Frecuente,No,177.0,80.0,Alto,115.0,7.0,11967.0,3.0,No
+781.0,66.0,Masculino,32.63,Moderado,Frecuente,No,118.0,,Normal,116.5,4.2,17455.0,1.0,Sí
+782.0,53.0,Femenino,23.73,Alto,Ocasional,Sí,162.0,86.0,Alto,71.1,4.8,,2.0,No
+783.0,29.0,Femenino,37.96,Alto,Nunca,No,157.0,75.0,Alto,179.1,9.3,9660.0,7.0,Sí
+784.0,78.0,Masculino,32.76,,Ocasional,No,140.0,85.0,Muy Alto,74.2,,,6.0,Sí
+785.0,58.0,Otro,30.33,Alto,Nunca,No,113.0,89.0,Normal,192.2,6.5,,8.0,Sí
+786.0,36.0,Masculino,20.44,Bajo,Frecuente,No,103.0,,Muy Alto,186.0,7.1,11440.0,7.0,Sí
+787.0,29.0,Masculino,27.84,Moderado,,No,,,Normal,139.6,6.2,4832.0,8.0,No
+,26.0,Otro,28.13,,Ocasional,Sí,107.0,,Alto,140.7,8.4,16970.0,3.0,No
+789.0,24.0,Otro,37.02,Moderado,Ocasional,No,131.0,,Normal,155.0,8.7,14107.0,,Sí
+790.0,,Femenino,30.03,Moderado,Ocasional,Sí,146.0,94.0,Normal,120.3,8.6,14777.0,7.0,Sí
+791.0,31.0,Otro,26.37,Bajo,,Sí,172.0,117.0,Alto,154.1,8.3,16954.0,1.0,Sí
+792.0,48.0,Femenino,39.49,Alto,Ocasional,Sí,101.0,75.0,Alto,75.8,5.2,17943.0,1.0,Sí
+793.0,69.0,Otro,20.44,Alto,Ocasional,Sí,171.0,99.0,Normal,77.0,6.0,,7.0,Sí
+794.0,36.0,Masculino,27.3,Moderado,Ocasional,Sí,106.0,71.0,Muy Alto,129.4,6.8,13666.0,3.0,No
+795.0,75.0,Femenino,18.92,Alto,Frecuente,Sí,119.0,94.0,Normal,141.5,6.0,11110.0,,No
+796.0,,Femenino,34.28,Moderado,Frecuente,No,177.0,108.0,,185.4,8.5,8344.0,5.0,Sí
+797.0,33.0,Femenino,38.2,Moderado,Nunca,No,164.0,80.0,Muy Alto,83.6,6.0,17462.0,,No
+798.0,70.0,Masculino,24.16,Bajo,Nunca,No,112.0,109.0,Alto,176.9,4.8,14696.0,2.0,No
+,22.0,Masculino,36.88,Bajo,Ocasional,Sí,170.0,102.0,Alto,97.3,6.4,2031.0,3.0,Sí
+,52.0,Masculino,24.43,Bajo,Frecuente,No,90.0,95.0,Muy Alto,121.2,9.9,19456.0,6.0,No
+801.0,29.0,Masculino,38.04,Moderado,Ocasional,No,168.0,107.0,Alto,111.2,5.4,16090.0,3.0,No
+802.0,42.0,Masculino,,Alto,Ocasional,No,,76.0,Alto,122.0,7.7,16816.0,5.0,No
+803.0,69.0,Femenino,35.71,Bajo,Frecuente,Sí,98.0,91.0,Alto,89.6,6.6,18868.0,9.0,No
+804.0,76.0,Masculino,18.4,Alto,Frecuente,No,104.0,100.0,Alto,135.5,4.4,11437.0,3.0,Sí
+,38.0,Femenino,39.18,Bajo,Frecuente,Sí,117.0,,Alto,174.2,6.9,16453.0,6.0,No
+806.0,53.0,Masculino,33.99,Bajo,Nunca,No,113.0,83.0,Alto,127.4,8.2,15258.0,5.0,No
+,70.0,Otro,24.7,Moderado,Nunca,Sí,149.0,86.0,,133.8,7.1,2550.0,5.0,No
+808.0,40.0,Femenino,36.25,Bajo,,,124.0,79.0,Alto,180.3,9.2,13977.0,6.0,Sí
+809.0,33.0,Otro,24.19,Bajo,Nunca,Sí,175.0,84.0,Alto,161.8,5.7,5682.0,6.0,No
+810.0,74.0,Femenino,37.2,Moderado,Frecuente,No,116.0,61.0,,133.8,4.5,15439.0,1.0,No
+811.0,56.0,Otro,20.48,Alto,Frecuente,No,172.0,68.0,Normal,103.5,9.6,19213.0,9.0,No
+812.0,62.0,Masculino,33.48,,Nunca,Sí,165.0,87.0,Alto,185.0,6.3,4751.0,5.0,Sí
+813.0,70.0,Masculino,29.9,Moderado,Ocasional,No,109.0,112.0,Normal,145.0,7.5,13914.0,1.0,Sí
+814.0,59.0,Masculino,20.12,Bajo,Ocasional,Sí,154.0,97.0,Muy Alto,98.7,8.8,11223.0,8.0,Sí
+815.0,75.0,Femenino,23.32,Moderado,Nunca,Sí,174.0,62.0,Normal,105.0,5.9,16398.0,7.0,Sí
+816.0,56.0,Otro,,Alto,Ocasional,No,138.0,79.0,Alto,174.4,8.3,7601.0,7.0,Sí
+817.0,31.0,Masculino,28.31,,Ocasional,No,90.0,65.0,Alto,75.7,4.8,4856.0,,No
+818.0,48.0,Otro,24.63,Moderado,Ocasional,No,99.0,,Normal,199.0,5.7,13661.0,1.0,Sí
+819.0,75.0,Otro,31.16,Moderado,Frecuente,Sí,136.0,92.0,Alto,86.9,4.9,16591.0,,
+820.0,22.0,Masculino,24.54,Moderado,Frecuente,Sí,,114.0,Muy Alto,173.5,8.9,7182.0,9.0,Sí
+,52.0,Masculino,24.6,Alto,Nunca,No,151.0,60.0,Muy Alto,121.3,5.3,8970.0,8.0,Sí
+822.0,40.0,Otro,34.35,Bajo,Frecuente,Sí,175.0,96.0,Alto,134.0,8.3,16154.0,5.0,Sí
+823.0,,Masculino,,Alto,Ocasional,No,107.0,65.0,Muy Alto,184.5,9.7,3094.0,3.0,No
+824.0,60.0,Masculino,37.86,Moderado,Frecuente,Sí,135.0,104.0,Muy Alto,123.7,7.2,13095.0,8.0,No
+825.0,28.0,Masculino,36.75,Moderado,Nunca,No,121.0,93.0,,139.9,7.2,14672.0,1.0,
+826.0,35.0,Femenino,32.69,Alto,Frecuente,No,116.0,106.0,Muy Alto,76.4,6.8,18932.0,3.0,Sí
+827.0,64.0,Otro,31.05,Moderado,Ocasional,Sí,107.0,74.0,Normal,70.3,,,7.0,Sí
+828.0,29.0,Otro,37.63,Alto,Ocasional,No,128.0,104.0,Alto,101.8,6.9,9559.0,,Sí
+829.0,26.0,Femenino,22.08,Moderado,Nunca,No,138.0,85.0,Normal,158.5,,1064.0,7.0,
+830.0,27.0,Otro,19.74,Bajo,Frecuente,Sí,171.0,116.0,Alto,85.8,9.9,4299.0,5.0,Sí
+831.0,75.0,Masculino,23.27,Bajo,Frecuente,No,133.0,73.0,Alto,84.8,9.6,5849.0,6.0,Sí
+832.0,61.0,Otro,35.48,Moderado,Frecuente,Sí,161.0,117.0,Alto,123.4,9.2,6639.0,7.0,No
+833.0,34.0,Masculino,18.76,Alto,Ocasional,,143.0,113.0,,154.2,9.3,,7.0,No
+834.0,78.0,Femenino,,Bajo,Nunca,Sí,123.0,66.0,Alto,162.6,6.8,,7.0,Sí
+835.0,55.0,Masculino,39.9,Alto,Frecuente,No,160.0,105.0,Normal,93.2,7.9,19612.0,7.0,No
+836.0,24.0,Otro,36.83,Moderado,Ocasional,No,125.0,117.0,Alto,80.3,9.4,17980.0,7.0,No
+837.0,63.0,Otro,29.47,Alto,Ocasional,,107.0,90.0,Muy Alto,192.3,6.4,11866.0,3.0,No
+838.0,30.0,Otro,19.4,Bajo,Ocasional,No,127.0,83.0,Muy Alto,,9.8,4889.0,3.0,Sí
+839.0,57.0,Femenino,36.29,Alto,Frecuente,Sí,148.0,118.0,Alto,180.9,6.5,16458.0,7.0,Sí
+840.0,59.0,Femenino,,Alto,Frecuente,,,90.0,Muy Alto,182.3,7.6,18779.0,2.0,Sí
+841.0,26.0,Otro,20.53,Moderado,Frecuente,Sí,162.0,88.0,Normal,170.4,8.3,1452.0,2.0,Sí
+,67.0,Masculino,20.06,Moderado,Frecuente,Sí,161.0,101.0,Normal,91.9,9.7,11995.0,3.0,No
+843.0,44.0,Femenino,38.01,Moderado,,Sí,140.0,91.0,Alto,176.8,,3631.0,4.0,Sí
+844.0,75.0,,32.72,Bajo,Frecuente,,124.0,,Alto,170.0,8.5,3186.0,6.0,
+845.0,,,36.24,Bajo,Frecuente,Sí,171.0,73.0,Alto,,7.1,6967.0,8.0,Sí
+846.0,,Femenino,,Moderado,Frecuente,No,94.0,99.0,Muy Alto,113.8,5.6,5348.0,7.0,No
+847.0,46.0,Femenino,30.58,Moderado,Frecuente,No,103.0,95.0,Muy Alto,104.1,8.7,2459.0,4.0,
+848.0,54.0,Femenino,29.38,Bajo,Ocasional,,,117.0,,85.8,7.3,2942.0,,No
+849.0,55.0,Masculino,27.47,Bajo,Frecuente,No,93.0,107.0,,136.3,8.0,,2.0,No
+850.0,,Masculino,,Bajo,Nunca,Sí,128.0,83.0,Normal,,5.9,15407.0,4.0,No
+,25.0,Otro,27.56,Bajo,Ocasional,Sí,173.0,104.0,Muy Alto,116.7,6.9,16622.0,6.0,Sí
+852.0,,,35.03,Moderado,Frecuente,Sí,153.0,,Normal,131.8,7.7,15557.0,3.0,No
+853.0,62.0,Masculino,31.24,Bajo,Nunca,No,,86.0,Alto,117.3,6.4,,,No
+,18.0,Femenino,37.64,Moderado,Frecuente,Sí,117.0,84.0,Muy Alto,,5.2,18878.0,5.0,
+855.0,39.0,Otro,27.75,Alto,Nunca,No,165.0,118.0,Normal,187.2,9.8,18564.0,5.0,Sí
+856.0,69.0,Masculino,31.36,Alto,Nunca,Sí,,91.0,,91.3,7.1,14093.0,2.0,Sí
+857.0,34.0,Masculino,31.89,Bajo,Nunca,Sí,167.0,111.0,,119.6,8.4,3788.0,,No
+858.0,24.0,Masculino,31.02,Alto,Nunca,Sí,111.0,77.0,Normal,88.3,6.5,11400.0,5.0,Sí
+859.0,42.0,Otro,33.46,Alto,Ocasional,Sí,120.0,105.0,Muy Alto,151.2,6.1,17489.0,2.0,
+,,,23.22,Alto,Ocasional,No,112.0,77.0,Muy Alto,164.8,,4925.0,7.0,Sí
+861.0,21.0,,29.27,Bajo,Nunca,No,,96.0,Alto,,6.5,19292.0,9.0,No
+,53.0,Otro,20.29,Bajo,Frecuente,Sí,109.0,85.0,Alto,106.3,,19433.0,9.0,No
+863.0,23.0,Femenino,26.46,Alto,Nunca,No,127.0,68.0,Normal,193.5,7.3,15568.0,1.0,No
+864.0,77.0,Otro,28.73,Moderado,Ocasional,Sí,144.0,119.0,Muy Alto,78.2,7.0,,7.0,
+865.0,48.0,Femenino,32.35,Alto,Frecuente,Sí,157.0,94.0,Muy Alto,148.4,,10466.0,9.0,Sí
+866.0,36.0,Otro,38.91,Bajo,Ocasional,Sí,168.0,67.0,Alto,77.4,7.0,4904.0,6.0,Sí
+,78.0,Femenino,31.21,Bajo,,Sí,177.0,79.0,,186.2,5.0,16467.0,1.0,No
+868.0,61.0,Masculino,34.36,Bajo,Frecuente,No,178.0,113.0,,138.9,4.8,11419.0,2.0,Sí
+869.0,71.0,Femenino,29.14,Alto,Nunca,Sí,90.0,101.0,Muy Alto,157.0,9.6,17676.0,4.0,
+870.0,,Otro,31.95,Moderado,Nunca,Sí,96.0,81.0,Muy Alto,178.1,7.6,11414.0,4.0,Sí
+871.0,44.0,Otro,19.56,Bajo,Nunca,No,146.0,78.0,Normal,89.5,8.0,13165.0,2.0,Sí
+872.0,27.0,Femenino,23.6,Bajo,Nunca,Sí,,89.0,Normal,75.0,6.4,11683.0,8.0,No
+873.0,,,25.96,Alto,Frecuente,No,94.0,,,184.3,9.5,16442.0,2.0,No
+874.0,,Masculino,28.39,Moderado,Frecuente,Sí,139.0,87.0,Alto,110.9,7.8,5860.0,,Sí
+875.0,56.0,Femenino,,Alto,Frecuente,Sí,131.0,94.0,,86.8,8.6,4729.0,,No
+876.0,79.0,Femenino,21.08,Bajo,Ocasional,Sí,,102.0,Normal,130.9,6.2,15400.0,9.0,Sí
+,20.0,Otro,24.09,Moderado,Frecuente,Sí,107.0,,Muy Alto,147.8,9.8,9619.0,1.0,Sí
+,62.0,Masculino,39.37,Moderado,Nunca,Sí,155.0,90.0,Normal,,8.9,12164.0,8.0,
+879.0,30.0,Femenino,,Bajo,Ocasional,Sí,163.0,108.0,,105.7,,7110.0,5.0,No
+880.0,67.0,Masculino,28.6,,Nunca,,168.0,107.0,Muy Alto,74.3,5.0,7955.0,,No
+881.0,45.0,Femenino,22.31,Moderado,Nunca,Sí,106.0,98.0,Normal,124.6,5.6,1106.0,8.0,Sí
+882.0,79.0,Femenino,31.44,Alto,Frecuente,No,157.0,95.0,Alto,186.4,5.7,5754.0,5.0,No
+883.0,75.0,Masculino,24.18,Bajo,,No,160.0,89.0,Alto,197.7,5.6,12525.0,8.0,No
+884.0,37.0,,22.55,,Nunca,Sí,151.0,82.0,Muy Alto,152.8,9.1,,8.0,Sí
+885.0,45.0,Femenino,29.36,Bajo,Nunca,No,130.0,78.0,Normal,91.0,4.2,8635.0,9.0,No
+886.0,25.0,Otro,18.12,Bajo,Ocasional,Sí,123.0,71.0,Alto,187.8,4.5,2225.0,2.0,No
+887.0,,Femenino,,Bajo,Frecuente,No,159.0,74.0,Alto,137.1,,13196.0,,Sí
+888.0,58.0,Femenino,22.82,Moderado,Ocasional,Sí,,90.0,Alto,90.0,5.2,5250.0,1.0,No
+889.0,56.0,Femenino,18.81,Alto,Ocasional,No,147.0,102.0,Alto,,5.4,16372.0,4.0,Sí
+890.0,18.0,Otro,20.38,Bajo,,No,140.0,96.0,Normal,168.5,8.8,18279.0,,No
+,20.0,Masculino,25.45,Alto,Nunca,Sí,123.0,96.0,,165.1,7.4,13097.0,1.0,No
+892.0,30.0,Otro,35.66,Alto,Ocasional,No,133.0,74.0,Normal,162.2,4.0,,8.0,Sí
+893.0,45.0,Otro,30.59,Moderado,Ocasional,Sí,104.0,88.0,Normal,96.0,6.6,,2.0,Sí
+894.0,79.0,Masculino,29.28,Bajo,Nunca,Sí,167.0,109.0,,97.4,6.4,6419.0,1.0,No
+895.0,,Otro,24.46,Moderado,,Sí,,102.0,Muy Alto,159.5,4.7,18769.0,2.0,Sí
+,77.0,,38.5,,Frecuente,Sí,139.0,,Muy Alto,,8.1,16713.0,5.0,Sí
+897.0,66.0,Otro,,Moderado,Ocasional,Sí,121.0,103.0,Alto,127.0,8.2,,9.0,No
+898.0,42.0,Masculino,19.92,Alto,Nunca,No,,61.0,,171.7,8.3,3433.0,9.0,Sí
+899.0,73.0,Femenino,31.58,Bajo,Frecuente,No,92.0,79.0,Muy Alto,171.9,8.4,11998.0,2.0,No
+900.0,,Otro,20.5,Alto,Ocasional,No,175.0,,Muy Alto,128.9,4.0,12575.0,2.0,No
+901.0,55.0,Otro,25.59,Alto,Ocasional,Sí,175.0,,Alto,173.0,9.7,2301.0,3.0,Sí
+902.0,70.0,Otro,29.16,Moderado,,No,163.0,63.0,Alto,179.0,8.9,7858.0,7.0,No
+903.0,23.0,Otro,37.23,Bajo,Ocasional,No,140.0,81.0,Normal,155.1,9.4,9950.0,3.0,Sí
+904.0,75.0,Femenino,28.86,Alto,Frecuente,,156.0,109.0,Normal,99.7,4.1,9938.0,1.0,
+,61.0,,33.45,Moderado,Nunca,No,165.0,97.0,Muy Alto,,9.6,6644.0,6.0,Sí
+,62.0,Femenino,39.84,Bajo,Frecuente,No,137.0,82.0,Alto,110.9,8.9,,,Sí
+907.0,49.0,Femenino,20.89,Bajo,Frecuente,Sí,,118.0,Muy Alto,85.2,9.0,10260.0,1.0,No
+908.0,62.0,Femenino,,,Frecuente,Sí,96.0,85.0,Normal,105.5,4.6,15690.0,4.0,Sí
+909.0,,Femenino,26.68,Bajo,Ocasional,No,102.0,110.0,Normal,97.2,8.4,4307.0,1.0,Sí
+910.0,64.0,Masculino,27.28,Alto,Ocasional,Sí,155.0,70.0,,129.2,9.8,17488.0,1.0,
+911.0,38.0,Masculino,27.04,Bajo,,Sí,93.0,87.0,,188.1,8.1,1395.0,2.0,No
+912.0,33.0,,,Moderado,Frecuente,No,99.0,115.0,Alto,83.6,7.4,11845.0,8.0,No
+,,Masculino,33.71,Alto,Nunca,No,177.0,61.0,Muy Alto,163.6,9.7,4291.0,2.0,Sí
+914.0,,Masculino,31.37,Alto,Nunca,Sí,106.0,118.0,Alto,159.3,6.7,19394.0,2.0,Sí
+915.0,28.0,Otro,,Bajo,Ocasional,No,141.0,67.0,Alto,82.4,7.6,14138.0,,No
+916.0,77.0,Otro,36.12,Bajo,Ocasional,Sí,,88.0,Normal,189.9,6.9,5537.0,6.0,No
+917.0,54.0,Otro,,Alto,Nunca,Sí,,70.0,Alto,143.9,9.6,10860.0,4.0,No
+918.0,53.0,Masculino,36.07,Bajo,Frecuente,No,,96.0,Muy Alto,117.3,4.5,18435.0,3.0,Sí
+919.0,52.0,Masculino,18.03,Moderado,Ocasional,Sí,163.0,77.0,Alto,168.4,7.0,,1.0,No
+920.0,36.0,Otro,32.0,Bajo,Frecuente,Sí,98.0,114.0,Alto,103.5,8.1,5723.0,3.0,Sí
+921.0,37.0,Femenino,19.12,,Nunca,Sí,166.0,109.0,Alto,160.2,,15837.0,9.0,No
+922.0,74.0,Otro,23.67,Moderado,Ocasional,No,172.0,73.0,Alto,,7.5,9539.0,5.0,Sí
+,35.0,Femenino,19.31,Moderado,Ocasional,No,110.0,113.0,Alto,,,2263.0,6.0,No
+924.0,64.0,Femenino,31.28,Moderado,Nunca,No,113.0,69.0,Normal,128.3,9.7,14305.0,5.0,Sí
+925.0,58.0,Otro,,Moderado,Ocasional,No,93.0,,Muy Alto,152.8,4.4,11934.0,1.0,No
+926.0,66.0,Otro,20.52,Bajo,Nunca,Sí,113.0,68.0,Normal,98.8,6.4,11265.0,1.0,No
+927.0,,Otro,,Moderado,Ocasional,No,148.0,94.0,Muy Alto,158.0,4.1,17339.0,4.0,Sí
+928.0,,Masculino,28.04,Bajo,Nunca,No,92.0,70.0,Muy Alto,170.4,6.0,2351.0,3.0,No
+929.0,48.0,Femenino,26.12,Moderado,Ocasional,No,157.0,103.0,Muy Alto,131.5,7.2,8190.0,8.0,
+930.0,18.0,Masculino,20.66,Alto,Frecuente,No,129.0,71.0,Muy Alto,150.3,9.5,17650.0,7.0,No
+931.0,70.0,Masculino,27.22,,,Sí,137.0,62.0,Muy Alto,129.3,9.1,11885.0,7.0,No
+932.0,71.0,,34.53,Alto,Frecuente,Sí,143.0,112.0,,186.2,4.8,8434.0,8.0,
+933.0,71.0,,,,Ocasional,Sí,124.0,98.0,Normal,134.7,4.6,2022.0,7.0,Sí
+934.0,20.0,Otro,19.76,Moderado,Ocasional,No,145.0,73.0,Normal,179.4,7.5,3037.0,2.0,No
+935.0,33.0,Femenino,25.8,Moderado,Frecuente,No,178.0,115.0,Alto,174.2,7.2,9756.0,,Sí
+936.0,40.0,Otro,38.72,Alto,Frecuente,Sí,129.0,87.0,Muy Alto,123.4,5.6,14558.0,6.0,Sí
+937.0,74.0,Masculino,32.71,Alto,Nunca,No,166.0,70.0,Normal,99.9,9.4,18443.0,3.0,Sí
+938.0,28.0,Masculino,32.93,Moderado,Nunca,No,157.0,98.0,Alto,122.8,9.6,2424.0,3.0,Sí
+939.0,29.0,,25.96,,Nunca,Sí,135.0,84.0,Alto,177.4,6.4,5123.0,6.0,Sí
+940.0,,Otro,31.06,Moderado,Frecuente,Sí,167.0,,Normal,99.6,9.3,17603.0,1.0,No
+941.0,49.0,Masculino,,Alto,Frecuente,,102.0,69.0,,138.2,,,1.0,Sí
+942.0,,Femenino,31.99,Moderado,Frecuente,No,116.0,102.0,Muy Alto,174.8,8.4,10829.0,5.0,No
+943.0,25.0,Femenino,38.09,Alto,Nunca,,95.0,74.0,Muy Alto,,6.9,19702.0,1.0,Sí
+944.0,55.0,Otro,31.48,Alto,Ocasional,Sí,106.0,78.0,Normal,153.5,4.7,10951.0,8.0,No
+945.0,29.0,Femenino,37.22,Alto,Frecuente,Sí,125.0,107.0,,101.9,9.6,9983.0,2.0,No
+,41.0,Masculino,33.93,Moderado,Ocasional,,170.0,81.0,Alto,84.2,6.7,18693.0,6.0,No
+947.0,45.0,,20.65,Alto,Ocasional,Sí,91.0,80.0,Muy Alto,173.3,8.4,13025.0,5.0,Sí
+948.0,70.0,Masculino,37.85,Alto,Ocasional,,,119.0,Muy Alto,82.9,6.2,5929.0,4.0,Sí
+949.0,25.0,Masculino,19.46,Moderado,Nunca,Sí,141.0,111.0,Alto,105.3,4.1,10522.0,1.0,No
+950.0,75.0,Femenino,29.75,Alto,Ocasional,Sí,155.0,103.0,,181.2,4.6,13638.0,,No
+951.0,45.0,Otro,21.13,Moderado,Frecuente,No,141.0,91.0,,,7.0,9702.0,4.0,Sí
+952.0,53.0,Otro,18.26,Alto,Nunca,,132.0,109.0,Muy Alto,196.5,8.1,,2.0,Sí
+953.0,43.0,Femenino,27.28,Bajo,Frecuente,No,179.0,82.0,Normal,197.4,6.0,13121.0,2.0,No
+954.0,,Masculino,24.49,Bajo,,Sí,111.0,72.0,Muy Alto,104.9,8.2,15219.0,2.0,Sí
+955.0,75.0,Masculino,28.69,Alto,Nunca,No,144.0,64.0,Normal,75.3,8.2,2617.0,,Sí
+956.0,77.0,Masculino,30.7,Bajo,Frecuente,No,156.0,63.0,Normal,161.7,8.2,,2.0,Sí
+957.0,67.0,Masculino,18.96,Moderado,Frecuente,Sí,149.0,87.0,Normal,128.6,7.0,18904.0,6.0,Sí
+958.0,45.0,Otro,20.71,Bajo,Nunca,Sí,147.0,73.0,Normal,83.1,9.5,2583.0,3.0,Sí
+959.0,45.0,Otro,30.29,Alto,Frecuente,No,101.0,67.0,Normal,,6.9,7704.0,5.0,Sí
+960.0,54.0,Femenino,25.55,Alto,Ocasional,Sí,177.0,68.0,Alto,,6.7,8988.0,1.0,No
+961.0,,Femenino,34.04,Moderado,Frecuente,No,158.0,116.0,Alto,183.1,5.2,18959.0,8.0,No
+962.0,53.0,,32.35,Alto,Ocasional,No,173.0,110.0,Alto,88.0,5.8,10953.0,4.0,No
+963.0,44.0,Otro,36.6,Moderado,Frecuente,Sí,128.0,94.0,Normal,86.6,4.3,3613.0,9.0,No
+964.0,71.0,Masculino,33.23,Bajo,Nunca,No,102.0,96.0,Muy Alto,92.8,7.8,4892.0,4.0,No
+,34.0,Masculino,27.46,Bajo,Nunca,Sí,130.0,80.0,Alto,194.8,,,2.0,No
+,26.0,,32.81,Moderado,Frecuente,Sí,146.0,117.0,Muy Alto,160.1,5.8,7733.0,3.0,Sí
+967.0,50.0,Otro,24.06,Moderado,,Sí,142.0,77.0,Muy Alto,174.2,,5431.0,5.0,Sí
+968.0,70.0,Femenino,24.74,Alto,Frecuente,No,101.0,92.0,Normal,121.7,6.0,18765.0,6.0,No
+969.0,37.0,Otro,35.36,Bajo,Nunca,Sí,102.0,67.0,Normal,,5.5,4515.0,7.0,No
+970.0,30.0,Masculino,27.82,Moderado,Ocasional,Sí,163.0,,Normal,,5.0,5454.0,4.0,No
+971.0,45.0,Femenino,35.56,,Frecuente,No,146.0,108.0,Alto,132.5,8.6,8769.0,7.0,Sí
+972.0,65.0,Femenino,36.09,Moderado,Ocasional,No,129.0,76.0,Normal,141.7,,9384.0,3.0,Sí
+,46.0,Otro,,Bajo,Ocasional,,169.0,102.0,Alto,152.1,6.7,14727.0,7.0,Sí
+974.0,30.0,Masculino,38.17,Alto,Frecuente,No,,90.0,Alto,,7.0,4534.0,4.0,Sí
+975.0,63.0,Femenino,27.48,Bajo,Ocasional,Sí,124.0,93.0,,193.3,8.1,1755.0,,
+976.0,52.0,Masculino,25.02,Bajo,Frecuente,Sí,92.0,65.0,Alto,92.1,7.8,19909.0,9.0,No
+977.0,78.0,Femenino,30.81,,Ocasional,,,81.0,Normal,195.5,8.9,18211.0,7.0,No
+978.0,23.0,Masculino,26.17,Bajo,Frecuente,,179.0,,Alto,71.9,4.3,19717.0,8.0,No
+979.0,35.0,,31.22,Bajo,Frecuente,No,100.0,62.0,Normal,132.5,5.8,9302.0,8.0,Sí
+980.0,68.0,Femenino,33.52,Alto,Nunca,Sí,160.0,71.0,Normal,113.3,5.7,13907.0,2.0,Sí
+981.0,22.0,Femenino,,Moderado,Frecuente,No,145.0,95.0,Alto,128.4,4.9,,9.0,No
+982.0,64.0,Masculino,26.24,,,No,99.0,71.0,Normal,144.2,,15385.0,6.0,Sí
+983.0,42.0,Masculino,21.67,Alto,Ocasional,Sí,,104.0,Muy Alto,126.6,5.9,8181.0,4.0,Sí
+984.0,19.0,Femenino,27.47,Bajo,Frecuente,Sí,156.0,61.0,Normal,123.9,7.1,14445.0,5.0,Sí
+985.0,27.0,Otro,,Bajo,Nunca,No,161.0,61.0,Normal,165.3,8.0,13875.0,5.0,Sí
+986.0,73.0,,37.58,Moderado,Ocasional,No,120.0,74.0,Alto,159.2,6.3,4414.0,7.0,No
+987.0,47.0,Masculino,25.61,Bajo,Ocasional,No,164.0,82.0,Alto,178.3,8.3,,9.0,Sí
+988.0,67.0,Masculino,21.4,,Nunca,Sí,160.0,88.0,Normal,102.5,6.0,10501.0,7.0,No
+989.0,76.0,Femenino,18.56,,Ocasional,Sí,155.0,76.0,Alto,149.2,5.7,15245.0,9.0,Sí
+990.0,62.0,,32.21,Moderado,Ocasional,Sí,159.0,91.0,Muy Alto,146.1,7.2,7457.0,4.0,Sí
+991.0,22.0,Femenino,32.01,Bajo,Ocasional,Sí,130.0,66.0,Muy Alto,118.1,4.1,7749.0,4.0,No
+992.0,72.0,Femenino,25.49,Alto,Ocasional,Sí,,89.0,Alto,,,1296.0,6.0,No
+993.0,73.0,Otro,,Bajo,Nunca,No,121.0,87.0,Normal,110.8,6.5,10821.0,8.0,Sí
+994.0,50.0,Otro,27.01,Bajo,Nunca,No,109.0,73.0,Muy Alto,88.4,9.7,17952.0,9.0,Sí
+995.0,71.0,Femenino,24.85,Bajo,Ocasional,No,146.0,103.0,Muy Alto,,8.3,6283.0,1.0,No
+996.0,18.0,Otro,32.9,Moderado,Ocasional,Sí,139.0,89.0,Normal,83.7,4.5,14119.0,1.0,Sí
+997.0,,Masculino,31.33,Bajo,Nunca,Sí,169.0,76.0,,158.8,9.1,8664.0,8.0,Sí
+998.0,,,26.02,Alto,Nunca,Sí,114.0,91.0,Muy Alto,155.9,,,7.0,No
+999.0,64.0,Masculino,22.79,Bajo,Nunca,No,101.0,105.0,Normal,193.6,7.7,6465.0,9.0,Sí
+1000.0,66.0,Femenino,39.74,,,Sí,160.0,,Normal,164.9,8.9,13557.0,,Sí
+1001.0,28.0,Masculino,,Bajo,Ocasional,Sí,128.0,110.0,,,6.4,5382.0,5.0,
+,38.0,Otro,33.14,Alto,Frecuente,No,106.0,83.0,Alto,185.0,5.3,17449.0,3.0,Sí
+,,Femenino,21.09,,Nunca,Sí,134.0,65.0,Muy Alto,182.1,,18263.0,5.0,Sí
+1004.0,,Otro,28.68,Bajo,Ocasional,No,100.0,86.0,Normal,127.6,7.3,10408.0,1.0,No
+1005.0,39.0,,18.61,Bajo,Nunca,Sí,159.0,77.0,Muy Alto,146.2,7.2,,4.0,Sí
+1006.0,76.0,Masculino,29.12,Alto,Ocasional,Sí,112.0,83.0,Alto,,7.4,6069.0,6.0,No
+1007.0,44.0,Masculino,39.21,Moderado,Nunca,No,159.0,96.0,Normal,139.2,9.7,12672.0,2.0,No
+1008.0,66.0,Femenino,26.45,Bajo,Ocasional,No,127.0,115.0,Alto,187.7,9.4,17891.0,7.0,Sí
+1009.0,30.0,Otro,18.86,Moderado,Frecuente,No,91.0,83.0,Muy Alto,80.8,9.3,8704.0,8.0,No
+1010.0,50.0,Femenino,18.68,Bajo,,No,175.0,97.0,Muy Alto,,8.8,18509.0,1.0,Sí
+1011.0,51.0,,26.54,Bajo,Nunca,No,173.0,93.0,Alto,127.3,9.7,,4.0,No
+1012.0,,Masculino,21.52,Bajo,Ocasional,No,178.0,99.0,Muy Alto,146.0,4.6,8975.0,4.0,
+1013.0,52.0,Femenino,18.51,Bajo,,,168.0,106.0,Alto,176.1,5.6,13069.0,5.0,No
+1014.0,18.0,Femenino,34.64,,Nunca,Sí,161.0,,,198.5,7.0,7565.0,4.0,Sí
+1015.0,38.0,Masculino,28.09,,Ocasional,No,126.0,,Alto,120.6,9.1,5870.0,9.0,No
+1016.0,65.0,Femenino,24.36,Alto,Nunca,,138.0,,Alto,76.2,7.0,19909.0,7.0,No
+1017.0,72.0,Masculino,37.8,Alto,Ocasional,No,141.0,113.0,Normal,174.2,8.5,10117.0,2.0,No
+1018.0,23.0,Masculino,20.56,Moderado,Nunca,Sí,122.0,83.0,,,4.8,2938.0,1.0,Sí
+1019.0,45.0,Masculino,39.03,Bajo,Ocasional,No,111.0,,Alto,95.8,5.5,12554.0,9.0,Sí
+1020.0,,Masculino,24.91,Alto,Nunca,,94.0,77.0,Muy Alto,134.3,8.4,4232.0,1.0,No
+1021.0,22.0,Femenino,37.54,Moderado,Ocasional,Sí,107.0,103.0,,166.5,5.0,4465.0,,No
+,48.0,Masculino,31.26,Bajo,Frecuente,Sí,127.0,71.0,Muy Alto,,6.1,1440.0,2.0,No
+1023.0,22.0,Masculino,36.19,Alto,Ocasional,Sí,126.0,,Alto,135.0,5.6,17845.0,4.0,No
+1024.0,55.0,Femenino,39.65,Alto,Nunca,Sí,153.0,102.0,Alto,,6.1,6413.0,6.0,Sí
+1025.0,20.0,Femenino,24.34,Moderado,Frecuente,No,99.0,87.0,Alto,196.6,8.2,12663.0,5.0,Sí
+1026.0,70.0,Otro,39.14,Bajo,,No,168.0,99.0,Alto,156.2,6.2,6755.0,6.0,Sí
+1027.0,40.0,Femenino,26.57,Bajo,Frecuente,No,131.0,,Normal,123.1,7.3,6012.0,3.0,No
+1028.0,54.0,Femenino,26.48,Alto,Ocasional,Sí,137.0,66.0,Alto,106.5,4.6,17126.0,5.0,Sí
+1029.0,70.0,Otro,25.49,Alto,Frecuente,No,133.0,82.0,Muy Alto,165.0,8.8,7752.0,2.0,No
+1030.0,54.0,,,Alto,Nunca,Sí,171.0,80.0,Normal,,6.2,1005.0,7.0,No
+1031.0,27.0,Femenino,21.39,,Ocasional,Sí,176.0,93.0,Muy Alto,92.3,7.9,5776.0,3.0,No
+1032.0,27.0,Femenino,30.18,Moderado,,,105.0,70.0,Alto,138.9,8.4,8038.0,1.0,Sí
+1033.0,36.0,Femenino,29.92,Moderado,,No,143.0,,Normal,107.7,5.3,,8.0,No
+1034.0,34.0,Otro,34.76,Bajo,Frecuente,Sí,124.0,101.0,Alto,151.8,9.3,4970.0,8.0,Sí
+1035.0,38.0,Femenino,,Moderado,Nunca,No,,94.0,Normal,85.3,7.7,12050.0,3.0,No
+1036.0,31.0,,27.69,Alto,Nunca,No,91.0,111.0,Muy Alto,155.1,6.6,3606.0,,Sí
+1037.0,26.0,Otro,24.65,Moderado,Frecuente,Sí,102.0,88.0,Alto,106.8,,17482.0,9.0,No
+1038.0,63.0,Masculino,23.71,Moderado,Nunca,,130.0,101.0,Alto,,9.7,1525.0,8.0,Sí
+1039.0,,Otro,22.28,Moderado,Ocasional,No,169.0,87.0,Normal,86.5,8.5,7337.0,,No
+1040.0,68.0,Masculino,19.27,,Ocasional,No,148.0,,Normal,191.4,5.2,2180.0,,Sí
+,62.0,Otro,25.53,Bajo,Ocasional,No,,77.0,Alto,182.8,6.0,14057.0,7.0,No
+1042.0,30.0,Otro,23.95,Alto,Nunca,No,142.0,,Normal,100.4,8.9,6922.0,7.0,No
+1043.0,21.0,,39.26,Bajo,Ocasional,No,,77.0,Alto,171.2,8.2,,9.0,
+1044.0,79.0,Masculino,30.27,Bajo,Ocasional,No,109.0,87.0,Normal,149.1,8.6,3792.0,5.0,Sí
+1045.0,18.0,Femenino,25.64,Bajo,Ocasional,Sí,113.0,83.0,Muy Alto,196.2,6.6,14844.0,,No
+1046.0,66.0,Masculino,,,Ocasional,No,150.0,67.0,Normal,118.6,8.3,1014.0,8.0,No
+1047.0,57.0,Otro,,Moderado,Ocasional,No,147.0,,Muy Alto,158.6,6.3,19799.0,4.0,No
+1048.0,49.0,Otro,27.77,Bajo,Ocasional,No,116.0,113.0,Normal,78.3,5.3,3685.0,4.0,Sí
+1049.0,51.0,Masculino,31.78,Bajo,,No,115.0,104.0,Normal,121.5,7.8,17212.0,2.0,
+1050.0,45.0,Femenino,28.76,Moderado,,Sí,96.0,112.0,Alto,195.3,9.9,10428.0,1.0,No
+1051.0,48.0,,26.84,Alto,Ocasional,,131.0,67.0,Normal,140.1,5.9,9159.0,4.0,
+1052.0,25.0,Femenino,39.86,Bajo,Frecuente,No,,63.0,Normal,,6.8,5100.0,7.0,
+1053.0,56.0,Femenino,,Alto,Nunca,No,142.0,86.0,Muy Alto,85.6,8.0,7374.0,9.0,
+1054.0,43.0,Otro,31.71,Moderado,Nunca,No,148.0,95.0,,161.5,7.2,7004.0,9.0,No
+1055.0,75.0,Otro,30.53,Bajo,Nunca,Sí,127.0,64.0,,153.8,9.1,6521.0,1.0,Sí
+1056.0,51.0,Otro,31.65,Alto,Nunca,Sí,158.0,92.0,Muy Alto,118.6,8.6,12412.0,5.0,Sí
+1057.0,71.0,Otro,,Alto,,Sí,176.0,108.0,Alto,193.6,4.3,12755.0,7.0,Sí
+1058.0,71.0,Otro,26.69,Alto,Ocasional,Sí,142.0,93.0,Alto,72.9,10.0,4890.0,,
+1059.0,,Femenino,18.87,,Frecuente,Sí,104.0,89.0,Alto,109.5,8.5,18175.0,6.0,No
+1060.0,76.0,Femenino,28.46,Moderado,,Sí,115.0,67.0,Alto,189.7,9.2,10191.0,4.0,Sí
+1061.0,67.0,Femenino,29.95,Alto,Nunca,No,137.0,98.0,Muy Alto,111.7,7.9,1151.0,3.0,No
+1062.0,29.0,Femenino,23.01,Alto,Frecuente,Sí,108.0,106.0,Normal,102.8,9.1,14861.0,9.0,No
+1063.0,18.0,Otro,39.21,Moderado,Frecuente,Sí,98.0,85.0,Alto,139.4,,19475.0,4.0,Sí
+1064.0,71.0,Otro,,Alto,,No,153.0,116.0,Muy Alto,177.1,6.1,16032.0,8.0,Sí
+1065.0,61.0,Otro,33.89,Alto,Nunca,Sí,,96.0,,,9.3,5599.0,1.0,
+1066.0,22.0,Masculino,,Moderado,Frecuente,No,140.0,,Normal,192.6,5.2,13274.0,7.0,
+1067.0,47.0,Femenino,37.14,Alto,Ocasional,Sí,128.0,66.0,Muy Alto,173.4,,13218.0,6.0,No
+1068.0,47.0,Femenino,20.87,Alto,,No,93.0,99.0,,93.6,8.7,3977.0,1.0,No
+1069.0,,Otro,35.39,Alto,,No,92.0,87.0,Normal,,,18226.0,4.0,No
+1070.0,74.0,Femenino,20.75,Moderado,Ocasional,No,153.0,98.0,Muy Alto,120.0,5.0,4793.0,5.0,No
+1071.0,34.0,Femenino,35.47,Alto,Ocasional,No,118.0,98.0,Normal,122.3,9.1,2659.0,8.0,No
+1072.0,65.0,Otro,24.07,Moderado,,No,100.0,87.0,Muy Alto,,8.1,,4.0,No
+1073.0,64.0,Masculino,37.3,Moderado,Nunca,Sí,147.0,73.0,Muy Alto,195.2,7.1,11705.0,3.0,Sí
+1074.0,40.0,Masculino,38.77,Bajo,Frecuente,Sí,164.0,112.0,,86.5,,17040.0,2.0,No
+1075.0,32.0,Masculino,21.27,Bajo,Ocasional,No,116.0,109.0,Normal,124.7,6.5,5270.0,4.0,No
+1076.0,54.0,Otro,28.18,Alto,Nunca,No,110.0,97.0,Muy Alto,132.5,5.2,,4.0,No
+1077.0,38.0,Femenino,39.58,Moderado,Frecuente,,128.0,63.0,,118.9,5.7,4603.0,5.0,Sí
+1078.0,31.0,Otro,28.63,Bajo,Ocasional,Sí,135.0,,Normal,117.2,,14772.0,7.0,Sí
+1079.0,,Otro,37.0,Alto,Frecuente,No,155.0,77.0,Normal,76.8,7.2,18600.0,9.0,No
+1080.0,28.0,Femenino,30.95,Bajo,Nunca,No,,103.0,Muy Alto,159.1,8.8,3291.0,2.0,Sí
+,68.0,Masculino,26.26,Bajo,Nunca,No,164.0,,Muy Alto,126.7,,14123.0,5.0,Sí
+1082.0,56.0,Masculino,,,Ocasional,No,171.0,84.0,Muy Alto,95.3,,4811.0,9.0,No
+1083.0,55.0,Otro,22.47,Moderado,Frecuente,Sí,154.0,66.0,Normal,176.1,8.7,14347.0,3.0,No
+1084.0,77.0,Masculino,34.76,Bajo,Ocasional,No,152.0,97.0,Muy Alto,174.3,5.2,14851.0,1.0,No
+,51.0,,26.5,Bajo,,No,124.0,87.0,Alto,133.2,,16513.0,2.0,Sí
+,55.0,Otro,29.25,Moderado,Nunca,Sí,120.0,64.0,Normal,108.8,9.2,6142.0,6.0,Sí
+1087.0,67.0,Femenino,28.83,Alto,Frecuente,,117.0,62.0,Muy Alto,,,13194.0,5.0,No
+,51.0,Femenino,30.7,Moderado,,No,90.0,103.0,Normal,107.5,5.5,8526.0,1.0,
+1089.0,35.0,Femenino,37.04,Bajo,Frecuente,Sí,114.0,90.0,,100.7,8.2,,1.0,
+1090.0,47.0,Otro,39.58,Alto,Ocasional,Sí,132.0,106.0,Normal,165.0,6.5,13084.0,,Sí
+,32.0,Femenino,26.97,Bajo,Frecuente,Sí,173.0,,,75.2,9.3,,4.0,No
+,44.0,Masculino,36.21,Alto,,No,156.0,117.0,Alto,82.3,5.8,16068.0,6.0,No
+1093.0,68.0,Masculino,34.82,Bajo,Nunca,No,152.0,79.0,Alto,70.9,,5595.0,6.0,No
+1094.0,51.0,Otro,30.62,Alto,Nunca,,140.0,78.0,Muy Alto,89.9,5.8,16402.0,6.0,No
+1095.0,69.0,Otro,39.03,Alto,Frecuente,Sí,91.0,,Muy Alto,79.0,7.5,10955.0,1.0,No
+1096.0,74.0,Femenino,22.41,Bajo,Frecuente,Sí,171.0,119.0,Muy Alto,199.5,6.3,19554.0,,Sí
+1097.0,55.0,Otro,20.4,Alto,Nunca,No,153.0,70.0,Normal,107.5,7.2,14996.0,7.0,Sí
+1098.0,,Otro,36.79,Moderado,Frecuente,No,163.0,99.0,Normal,89.4,9.3,2185.0,7.0,Sí
+1099.0,41.0,Masculino,27.66,Bajo,,Sí,158.0,62.0,Normal,101.3,,4285.0,7.0,Sí
+1100.0,32.0,,36.63,Moderado,Ocasional,,98.0,82.0,Muy Alto,191.7,5.6,4447.0,2.0,Sí
+1101.0,77.0,Femenino,37.65,Bajo,,Sí,91.0,66.0,Muy Alto,137.6,6.8,,2.0,Sí
+,47.0,Otro,19.37,Alto,Frecuente,No,123.0,,Normal,117.4,7.3,5899.0,6.0,No
+1103.0,72.0,Otro,37.44,Alto,Nunca,No,149.0,,Alto,183.5,9.7,17060.0,7.0,
+1104.0,59.0,Masculino,27.86,Alto,Frecuente,No,150.0,105.0,Normal,,10.0,2935.0,3.0,Sí
+1105.0,,Otro,29.23,Bajo,Frecuente,No,120.0,93.0,Alto,113.6,5.4,10445.0,4.0,No
+1106.0,34.0,Masculino,31.79,Moderado,Nunca,Sí,99.0,101.0,Muy Alto,96.9,8.4,10274.0,3.0,Sí
+1107.0,22.0,Femenino,38.38,Moderado,Nunca,No,165.0,78.0,Muy Alto,119.1,6.3,,7.0,Sí
+1108.0,46.0,Masculino,18.42,,Nunca,No,125.0,117.0,Normal,111.2,,18669.0,7.0,No
+1109.0,21.0,Otro,28.49,Bajo,Ocasional,Sí,174.0,68.0,Normal,158.0,,9545.0,4.0,No
+1110.0,27.0,Femenino,33.13,Moderado,Frecuente,No,138.0,107.0,Muy Alto,107.6,6.8,8479.0,7.0,Sí
+1111.0,73.0,Masculino,33.9,Moderado,Nunca,Sí,159.0,110.0,Normal,145.0,6.9,,5.0,No
+1112.0,34.0,Masculino,33.24,Moderado,Frecuente,Sí,138.0,77.0,Muy Alto,78.6,4.1,19269.0,1.0,Sí
+1113.0,27.0,Femenino,20.96,Moderado,Ocasional,No,92.0,100.0,Muy Alto,94.9,8.1,6062.0,4.0,Sí
+1114.0,34.0,Femenino,24.59,Bajo,,No,163.0,107.0,Alto,123.0,5.8,8066.0,7.0,Sí
+1115.0,77.0,Masculino,25.89,,Nunca,Sí,,104.0,Normal,191.8,7.4,11712.0,2.0,Sí
+1116.0,37.0,Otro,35.7,Alto,Nunca,Sí,179.0,101.0,Muy Alto,119.0,5.8,16991.0,2.0,Sí
+,41.0,Masculino,24.13,Moderado,Frecuente,Sí,150.0,84.0,Normal,156.3,5.0,4022.0,1.0,No
+1118.0,22.0,Femenino,22.64,Alto,Nunca,No,174.0,111.0,Alto,,6.4,2547.0,2.0,Sí
+1119.0,51.0,Masculino,39.06,Bajo,Frecuente,Sí,179.0,73.0,Alto,86.5,5.4,13210.0,8.0,No
+,23.0,Femenino,18.19,Bajo,Nunca,Sí,115.0,103.0,Normal,77.6,7.2,5204.0,,Sí
+,70.0,Femenino,39.95,Alto,Frecuente,Sí,161.0,,Normal,109.7,5.2,8590.0,8.0,No
+1122.0,19.0,Otro,32.89,Moderado,Frecuente,No,94.0,,Muy Alto,90.5,7.1,2368.0,1.0,Sí
+1123.0,30.0,Femenino,36.23,Moderado,Frecuente,Sí,104.0,98.0,Alto,92.6,4.9,12529.0,1.0,No
+1124.0,79.0,Femenino,24.48,Moderado,Frecuente,No,105.0,114.0,Alto,168.9,8.0,19141.0,4.0,
+1125.0,60.0,,18.31,Moderado,Ocasional,No,,74.0,Alto,72.1,8.5,16945.0,6.0,Sí
+1126.0,60.0,Femenino,34.23,Alto,Frecuente,Sí,105.0,75.0,Normal,142.5,4.7,10709.0,8.0,No
+,65.0,Otro,36.35,Alto,Nunca,No,126.0,86.0,Muy Alto,119.3,6.8,14644.0,,No
+1128.0,28.0,Otro,34.29,Bajo,Ocasional,Sí,92.0,99.0,Normal,,4.4,5917.0,3.0,
+1129.0,68.0,,21.14,Moderado,Ocasional,No,141.0,69.0,Normal,143.2,7.6,12877.0,6.0,No
+1130.0,64.0,Femenino,34.58,Moderado,Frecuente,No,136.0,63.0,Normal,,5.6,14224.0,4.0,No
+1131.0,74.0,Masculino,34.92,Moderado,Ocasional,Sí,102.0,110.0,Muy Alto,108.4,7.2,4052.0,2.0,No
+,40.0,Otro,32.49,Alto,Frecuente,Sí,169.0,78.0,Normal,,7.1,9382.0,7.0,Sí
+1133.0,72.0,Masculino,34.85,Moderado,Nunca,Sí,144.0,87.0,Alto,183.3,9.5,18316.0,4.0,Sí
+1134.0,33.0,Femenino,36.61,Alto,Frecuente,No,110.0,80.0,,95.0,7.3,8240.0,8.0,Sí
+1135.0,48.0,Masculino,31.5,Moderado,Ocasional,No,,118.0,Alto,82.7,7.5,4238.0,8.0,No
+1136.0,28.0,Otro,19.95,Moderado,Nunca,Sí,143.0,106.0,Muy Alto,,6.4,11407.0,7.0,No
+,,Masculino,28.73,Bajo,Frecuente,Sí,116.0,73.0,Normal,,9.7,,9.0,No
+1138.0,33.0,Otro,,Moderado,Nunca,,127.0,,Muy Alto,141.7,8.7,,,Sí
+1139.0,25.0,,26.97,Moderado,Nunca,No,179.0,107.0,Normal,116.7,5.7,17375.0,7.0,
+1140.0,21.0,Femenino,26.96,Bajo,Ocasional,No,147.0,69.0,Alto,86.4,9.1,18127.0,1.0,Sí
+1141.0,57.0,Otro,19.45,,Nunca,Sí,151.0,78.0,Normal,146.6,6.6,12103.0,4.0,No
+1142.0,21.0,Femenino,25.67,Alto,Ocasional,No,135.0,89.0,Normal,138.3,,16174.0,,
+1143.0,73.0,Femenino,,Moderado,Nunca,Sí,178.0,81.0,Normal,96.4,8.9,9722.0,9.0,
+1144.0,42.0,Femenino,,Alto,Frecuente,No,100.0,62.0,Muy Alto,128.7,5.1,9753.0,5.0,Sí
+1145.0,20.0,Femenino,38.85,Moderado,Nunca,No,161.0,96.0,Normal,173.6,8.2,6629.0,3.0,No
+1146.0,,,19.59,Bajo,Frecuente,Sí,97.0,100.0,Normal,146.8,5.7,7318.0,4.0,Sí
+1147.0,20.0,Masculino,39.01,Bajo,Frecuente,Sí,160.0,,Normal,82.6,5.8,,,No
+1148.0,44.0,Masculino,29.5,Moderado,Nunca,,153.0,70.0,Muy Alto,141.2,5.8,8506.0,1.0,No
+1149.0,,Femenino,24.59,Bajo,Frecuente,No,110.0,107.0,Muy Alto,161.4,,9701.0,7.0,No
+1150.0,49.0,Masculino,19.69,Bajo,,No,,61.0,Muy Alto,173.1,5.4,,8.0,No
+1151.0,67.0,Masculino,29.01,Moderado,Nunca,No,152.0,71.0,Normal,151.8,4.0,6429.0,7.0,Sí
+1152.0,78.0,Femenino,35.48,Moderado,Frecuente,Sí,174.0,113.0,Alto,,8.3,16866.0,7.0,No
+1153.0,75.0,Femenino,33.56,Bajo,,No,153.0,65.0,Alto,162.3,5.0,8248.0,9.0,Sí
+,68.0,Masculino,19.1,Alto,,Sí,109.0,102.0,Alto,158.1,4.6,3203.0,4.0,No
+1155.0,36.0,,19.6,Alto,Frecuente,Sí,97.0,118.0,Normal,73.2,5.4,3479.0,,No
+1156.0,38.0,Femenino,26.86,Moderado,Ocasional,Sí,147.0,99.0,Alto,123.5,6.3,11386.0,9.0,No
+,22.0,Otro,24.5,Moderado,Frecuente,No,135.0,103.0,Alto,,6.9,,5.0,Sí
+,35.0,Masculino,,Alto,Nunca,No,120.0,88.0,Alto,157.0,4.3,11230.0,2.0,No
+1159.0,45.0,Femenino,24.18,Bajo,Frecuente,,98.0,118.0,Normal,98.1,9.8,2706.0,5.0,Sí
+1160.0,59.0,Otro,35.68,Alto,Nunca,No,104.0,89.0,Alto,146.8,8.3,6725.0,4.0,Sí
+,78.0,Femenino,38.44,Alto,Nunca,Sí,,61.0,Alto,188.7,5.9,19288.0,8.0,No
+1162.0,39.0,Masculino,26.91,Alto,Nunca,Sí,99.0,68.0,Normal,173.7,5.9,4959.0,5.0,Sí
+1163.0,38.0,Otro,37.93,,Ocasional,No,118.0,106.0,Muy Alto,189.8,6.7,,,No
+,23.0,Masculino,25.07,,Frecuente,Sí,169.0,,Alto,197.2,7.8,12143.0,9.0,Sí
+1165.0,18.0,Masculino,28.48,Moderado,Nunca,Sí,125.0,88.0,Muy Alto,71.4,4.9,7825.0,3.0,Sí
+1166.0,22.0,,22.97,,Nunca,No,,92.0,Alto,151.0,5.1,7347.0,6.0,Sí
+1167.0,58.0,Otro,32.09,Bajo,Ocasional,Sí,126.0,,Normal,123.7,9.2,13841.0,6.0,Sí
+1168.0,29.0,Masculino,39.54,Bajo,Frecuente,Sí,175.0,,Muy Alto,181.8,5.5,3713.0,4.0,No
+,43.0,Masculino,31.28,Bajo,Frecuente,Sí,160.0,103.0,Muy Alto,102.7,6.3,12561.0,,Sí
+1170.0,63.0,Otro,25.87,Alto,Ocasional,Sí,112.0,,Muy Alto,,9.2,13787.0,1.0,No
+1171.0,51.0,Masculino,32.25,Moderado,Ocasional,,130.0,67.0,Muy Alto,149.8,,,7.0,Sí
+1172.0,66.0,Masculino,20.7,Moderado,Frecuente,Sí,169.0,96.0,Alto,173.2,6.1,11596.0,5.0,No
+1173.0,31.0,Otro,37.55,Bajo,Ocasional,,117.0,113.0,,81.1,8.1,16182.0,7.0,No
+1174.0,43.0,Otro,29.07,Bajo,Frecuente,No,137.0,119.0,Muy Alto,93.8,4.1,19687.0,1.0,
+1175.0,62.0,Otro,27.89,,Frecuente,,,92.0,Alto,168.6,8.4,4221.0,8.0,Sí
+1176.0,,Otro,30.89,Alto,Nunca,Sí,120.0,106.0,Muy Alto,72.9,6.9,2082.0,3.0,No
+1177.0,26.0,Femenino,31.75,Bajo,Nunca,Sí,103.0,65.0,Muy Alto,176.2,8.9,9637.0,7.0,
+1178.0,,Otro,19.58,Moderado,,No,162.0,103.0,Normal,71.8,,14123.0,3.0,Sí
+1179.0,74.0,Femenino,33.02,Moderado,Frecuente,,177.0,99.0,Muy Alto,155.4,,14042.0,3.0,Sí
+1180.0,64.0,Femenino,23.32,Moderado,Frecuente,No,166.0,104.0,Alto,117.5,9.5,,9.0,Sí
+1181.0,74.0,Femenino,33.71,Bajo,Frecuente,No,179.0,78.0,Muy Alto,149.5,7.1,,2.0,Sí
+1182.0,,Masculino,36.1,Moderado,Frecuente,No,118.0,91.0,Normal,160.5,6.2,6608.0,4.0,Sí
+1183.0,64.0,Femenino,,Alto,Frecuente,Sí,140.0,86.0,Alto,114.5,6.8,6526.0,6.0,
+1184.0,73.0,Femenino,30.16,Alto,Ocasional,No,138.0,60.0,Normal,84.0,8.1,7472.0,3.0,Sí
+1185.0,47.0,Masculino,29.44,Bajo,Frecuente,No,132.0,102.0,Normal,79.1,9.3,3775.0,,Sí
+1186.0,60.0,Masculino,21.14,Alto,Ocasional,No,161.0,111.0,Muy Alto,146.6,,16828.0,7.0,
+1187.0,65.0,,35.06,,Ocasional,Sí,176.0,92.0,Normal,137.7,9.5,13008.0,5.0,Sí
+1188.0,78.0,,23.97,,Frecuente,Sí,94.0,99.0,Normal,166.5,8.9,18974.0,,Sí
+1189.0,34.0,Masculino,28.93,Moderado,Frecuente,,131.0,91.0,Alto,136.3,9.9,16055.0,2.0,Sí
+1190.0,43.0,Masculino,24.25,Moderado,Ocasional,Sí,96.0,64.0,Normal,124.9,9.3,,4.0,Sí
+1191.0,53.0,Femenino,20.94,Alto,Ocasional,Sí,131.0,76.0,Muy Alto,121.8,5.7,6118.0,4.0,Sí
+1192.0,18.0,Masculino,31.85,,Frecuente,Sí,,67.0,,73.4,4.6,8960.0,,No
+1193.0,25.0,Otro,19.2,Moderado,,,116.0,116.0,Muy Alto,113.6,4.7,18945.0,8.0,No
+1194.0,66.0,Masculino,34.47,Bajo,Ocasional,,147.0,101.0,Normal,196.9,5.7,13464.0,5.0,Sí
+,52.0,Otro,24.99,Moderado,Ocasional,Sí,135.0,93.0,Alto,183.6,7.7,,6.0,No
+1196.0,78.0,Masculino,18.0,,Ocasional,No,155.0,68.0,Muy Alto,112.8,8.8,8240.0,8.0,Sí
+1197.0,69.0,Masculino,29.24,Alto,Nunca,,114.0,115.0,Normal,146.4,9.4,5942.0,1.0,Sí
+1198.0,32.0,Masculino,,Bajo,Ocasional,No,162.0,82.0,Muy Alto,180.1,7.7,14536.0,5.0,No
+1199.0,64.0,Masculino,24.08,Alto,Nunca,No,116.0,94.0,Muy Alto,,4.0,2600.0,,No
+1200.0,73.0,,33.55,Alto,Frecuente,,,,Alto,72.3,5.1,6700.0,4.0,No
